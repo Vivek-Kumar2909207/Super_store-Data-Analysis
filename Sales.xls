@@ -1,0 +1,1001 @@
+TransactionID,Date,StoreID,Region,ProductCategory,ProductName,Quantity,UnitPrice,PaymentType,CustomerID,Age,Gender,FeedbackScore,DiscountApplied,ReturnStatus,TotalPrice
+TXN1000,2023-01-01,106,East,Office Supplies,Product 10,6,467.31,Online Payment,C9761,63,F,1.5,10,No,2523.47
+TXN1001,2023-01-02,103,Central,Office Supplies,Product 18,2,214.65,Cash,C3637,48,F,1.6,30,Yes,300.51
+TXN1002,2023-01-03,107,South,Technology,Product 3,3,193.12,Online Payment,C8242,41,F,1.1,20,No,463.49
+TXN1003,2023-01-04,104,South,Office Supplies,Product 13,6,387.24,Credit Card,C9613,48,F,1.3,5,No,2207.27
+TXN1004,2023-01-05,106,Central,Office Supplies,Product 11,8,244.0,Credit Card,C3883,46,F,3.6,20,Yes,1561.6
+TXN1005,2023-01-06,109,South,Technology,Product 17,1,89.4,Credit Card,C2204,59,F,2.7,0,No,89.4
+TXN1006,2023-01-07,102,South,Furniture,Product 13,1,177.26,Cash,C1544,49,M,4.1,15,No,150.67
+TXN1007,2023-01-08,106,South,Technology,Product 6,2,238.36,Cash,C2223,34,F,5.0,5,No,452.88
+TXN1008,2023-01-09,107,South,Furniture,Product 17,6,181.63,Debit Card,C4172,31,F,3.6,10,No,980.8
+TXN1009,2023-01-10,104,South,Technology,Product 13,9,199.49,Online Payment,C9959,57,F,1.2,30,Yes,1256.79
+TXN1010,2023-01-11,103,East,Technology,Product 19,4,182.2,Cash,C7450,53,M,1.4,0,No,728.8
+TXN1011,2023-01-12,107,South,Office Supplies,Product 19,3,68.67,Credit Card,C7520,41,M,4.5,0,No,206.01
+TXN1012,2023-01-13,107,East,Furniture,Product 10,8,336.69,Credit Card,C1654,62,M,3.1,20,No,2154.82
+TXN1013,2023-01-14,102,South,Office Supplies,Product 3,9,318.78,Cash,C7821,44,F,4.3,0,No,2869.02
+TXN1014,2023-01-15,105,Central,Furniture,Product 14,5,344.02,Cash,C3446,42,F,4.4,5,No,1634.09
+TXN1015,2023-01-16,104,West,Technology,Product 19,9,136.54,Cash,C6892,49,F,4.7,20,No,983.09
+TXN1016,2023-01-17,101,East,Technology,Product 5,2,183.04,Debit Card,C9412,35,M,4.8,0,Yes,366.08
+TXN1017,2023-01-18,107,South,Furniture,Product 5,3,328.83,Credit Card,C4666,63,F,3.2,30,No,690.54
+TXN1018,2023-01-19,105,Central,Office Supplies,Product 20,7,319.83,Debit Card,C5277,35,M,2.4,10,No,2014.93
+TXN1019,2023-01-20,101,West,Office Supplies,Product 17,7,277.85,Debit Card,C5402,54,M,4.8,30,No,1361.46
+TXN1020,2023-01-21,104,East,Office Supplies,Product 10,6,207.69,Online Payment,C3569,43,M,3.2,25,No,934.6
+TXN1021,2023-01-22,100,West,Office Supplies,Product 5,6,460.82,Credit Card,C6515,26,M,1.3,5,No,2626.67
+TXN1022,2023-01-23,109,Central,Technology,Product 4,2,202.9,Credit Card,C4985,52,M,3.6,10,No,365.22
+TXN1023,2023-01-24,105,East,Technology,Product 6,6,255.03,Cash,C9167,25,F,3.4,10,No,1377.16
+TXN1024,2023-01-25,108,West,Technology,Product 4,4,355.15,Cash,C8448,37,F,4.6,20,No,1136.48
+TXN1025,2023-01-26,100,South,Technology,Product 7,3,294.36,Online Payment,C5310,59,M,3.6,15,Yes,750.62
+TXN1026,2023-01-27,109,East,Technology,Product 7,2,206.1,Debit Card,C4019,39,F,2.4,20,No,329.76
+TXN1027,2023-01-28,102,West,Office Supplies,Product 18,1,246.04,Cash,C4681,36,F,4.9,5,No,233.74
+TXN1028,2023-01-29,106,Central,Office Supplies,Product 3,5,407.52,Cash,C5196,47,M,4.2,5,Yes,1935.72
+TXN1029,2023-01-30,103,Central,Office Supplies,Product 1,2,175.16,Credit Card,C1572,45,M,3.5,20,No,280.26
+TXN1030,2023-01-31,108,East,Office Supplies,Product 4,2,114.01,Credit Card,C5753,52,F,2.2,15,No,193.82
+TXN1031,2023-02-01,102,West,Technology,Product 6,7,190.92,Cash,C8082,60,F,2.5,30,No,935.51
+TXN1032,2023-02-02,104,East,Technology,Product 9,8,432.29,Credit Card,C5002,28,F,3.7,20,No,2766.66
+TXN1033,2023-02-03,102,East,Technology,Product 14,8,90.05,Online Payment,C6629,48,F,1.3,5,No,684.38
+TXN1034,2023-02-04,106,West,Furniture,Product 12,4,496.26,Cash,C9417,56,M,2.0,15,Yes,1687.28
+TXN1035,2023-02-05,104,West,Office Supplies,Product 20,1,293.45,Credit Card,C5200,53,F,3.9,5,No,278.78
+TXN1036,2023-02-06,108,South,Office Supplies,Product 4,7,493.18,Online Payment,C2997,47,M,2.9,15,No,2934.42
+TXN1037,2023-02-07,106,West,Technology,Product 12,1,472.55,Credit Card,C9963,40,M,2.6,15,No,401.67
+TXN1038,2023-02-08,101,Central,Office Supplies,Product 10,4,253.77,Credit Card,C8422,36,F,1.6,20,No,812.06
+TXN1039,2023-02-09,103,East,Office Supplies,Product 7,8,139.32,Credit Card,C5524,29,F,2.8,20,No,891.65
+TXN1040,2023-02-10,108,East,Technology,Product 3,2,124.2,Cash,C9625,32,F,4.1,20,No,198.72
+TXN1041,2023-02-11,101,Central,Furniture,Product 14,6,158.0,Debit Card,C4407,48,M,2.1,15,Yes,805.8
+TXN1042,2023-02-12,109,West,Furniture,Product 10,6,369.56,Credit Card,C7731,60,M,1.0,15,No,1884.76
+TXN1043,2023-02-13,108,Central,Furniture,Product 16,9,172.83,Online Payment,C8795,54,M,3.7,5,No,1477.7
+TXN1044,2023-02-14,109,Central,Technology,Product 16,5,203.64,Cash,C3793,54,M,4.9,10,No,916.38
+TXN1045,2023-02-15,104,South,Office Supplies,Product 10,4,251.95,Cash,C8334,32,F,3.4,20,No,806.24
+TXN1046,2023-02-16,101,Central,Technology,Product 13,5,460.95,Online Payment,C3911,46,M,1.5,25,Yes,1728.56
+TXN1047,2023-02-17,103,East,Technology,Product 6,5,135.23,Credit Card,C8952,60,M,2.3,5,No,642.34
+TXN1048,2023-02-18,106,Central,Office Supplies,Product 12,8,52.26,Debit Card,C3415,43,F,4.5,5,No,397.18
+TXN1049,2023-02-19,107,East,Furniture,Product 9,8,77.04,Credit Card,C1250,61,M,1.9,0,No,616.32
+TXN1050,2023-02-20,102,East,Furniture,Product 13,2,457.14,Online Payment,C5951,19,M,3.4,20,Yes,731.42
+TXN1051,2023-02-21,100,East,Technology,Product 4,7,341.38,Cash,C9098,37,F,2.6,30,No,1672.76
+TXN1052,2023-02-22,103,West,Furniture,Product 11,8,172.87,Debit Card,C6289,32,M,1.8,5,No,1313.81
+TXN1053,2023-02-23,101,South,Technology,Product 20,6,129.74,Cash,C9102,21,M,4.3,0,No,778.44
+TXN1054,2023-02-24,107,East,Technology,Product 18,5,182.42,Online Payment,C8257,39,M,4.0,25,No,684.08
+TXN1055,2023-02-25,103,East,Office Supplies,Product 11,9,101.66,Credit Card,C6565,55,M,3.6,25,No,686.2
+TXN1056,2023-02-26,101,West,Office Supplies,Product 4,3,473.69,Debit Card,C7437,40,F,1.9,30,No,994.75
+TXN1057,2023-02-27,105,East,Office Supplies,Product 18,4,402.89,Cash,C2173,43,M,1.4,20,No,1289.25
+TXN1058,2023-02-28,105,Central,Technology,Product 1,9,258.08,Cash,C9624,28,F,3.3,15,No,1974.31
+TXN1059,2023-03-01,109,Central,Office Supplies,Product 7,6,439.23,Cash,C1835,45,M,3.2,0,No,2635.38
+TXN1060,2023-03-02,103,South,Furniture,Product 6,8,162.26,Credit Card,C3262,19,F,1.8,15,No,1103.37
+TXN1061,2023-03-03,105,East,Furniture,Product 15,7,372.7,Debit Card,C5567,25,F,1.2,25,No,1956.68
+TXN1062,2023-03-04,101,West,Technology,Product 18,2,435.26,Credit Card,C4815,46,F,1.3,25,No,652.89
+TXN1063,2023-03-05,109,Central,Technology,Product 11,3,210.55,Credit Card,C1246,28,M,5.0,10,No,568.49
+TXN1064,2023-03-06,101,West,Office Supplies,Product 20,1,390.86,Credit Card,C3429,54,M,4.1,10,No,351.77
+TXN1065,2023-03-07,109,West,Technology,Product 15,9,182.78,Online Payment,C6287,35,M,4.7,30,No,1151.51
+TXN1066,2023-03-08,103,Central,Technology,Product 16,7,184.49,Online Payment,C3607,31,F,1.8,10,Yes,1162.29
+TXN1067,2023-03-09,107,West,Furniture,Product 7,1,98.18,Online Payment,C6930,27,M,4.8,10,No,88.36
+TXN1068,2023-03-10,106,Central,Furniture,Product 10,3,248.03,Debit Card,C5022,52,M,1.6,30,No,520.86
+TXN1069,2023-03-11,108,West,Office Supplies,Product 12,4,378.37,Credit Card,C5784,26,M,3.0,5,No,1437.81
+TXN1070,2023-03-12,107,Central,Technology,Product 14,4,473.1,Credit Card,C7617,52,M,4.3,10,No,1703.16
+TXN1071,2023-03-13,104,East,Technology,Product 5,5,321.71,Online Payment,C4151,28,F,2.4,5,No,1528.12
+TXN1072,2023-03-14,101,South,Furniture,Product 18,3,438.41,Credit Card,C6580,61,F,2.7,5,No,1249.47
+TXN1073,2023-03-15,104,Central,Technology,Product 5,3,420.12,Credit Card,C8054,29,M,1.5,20,Yes,1008.29
+TXN1074,2023-03-16,107,Central,Furniture,Product 3,1,128.0,Cash,C8706,20,M,1.5,5,No,121.6
+TXN1075,2023-03-17,109,South,Office Supplies,Product 5,7,268.62,Credit Card,C8619,56,M,3.5,5,No,1786.32
+TXN1076,2023-03-18,108,Central,Furniture,Product 17,1,102.62,Cash,C5573,31,F,3.7,10,No,92.36
+TXN1077,2023-03-19,108,Central,Technology,Product 19,2,356.97,Credit Card,C4491,45,M,4.1,5,No,678.24
+TXN1078,2023-03-20,100,West,Office Supplies,Product 19,4,477.45,Debit Card,C1706,28,F,3.2,15,No,1623.33
+TXN1079,2023-03-21,108,South,Furniture,Product 12,4,111.69,Online Payment,C7997,56,F,3.6,30,No,312.73
+TXN1080,2023-03-22,106,East,Furniture,Product 9,5,380.25,Cash,C6233,42,M,1.1,10,No,1711.12
+TXN1081,2023-03-23,108,Central,Office Supplies,Product 1,2,334.51,Online Payment,C9945,38,M,1.6,30,No,468.31
+TXN1082,2023-03-24,107,South,Office Supplies,Product 18,4,312.62,Cash,C6755,27,M,4.9,0,No,1250.48
+TXN1083,2023-03-25,100,West,Furniture,Product 4,1,225.55,Cash,C7960,60,F,1.3,10,No,203.0
+TXN1084,2023-03-26,107,East,Technology,Product 10,2,209.81,Cash,C9779,32,F,3.7,5,No,398.64
+TXN1085,2023-03-27,107,South,Furniture,Product 7,1,70.36,Debit Card,C2334,36,M,1.7,15,No,59.81
+TXN1086,2023-03-28,102,East,Office Supplies,Product 1,4,148.06,Credit Card,C6588,39,F,3.9,30,No,414.57
+TXN1087,2023-03-29,100,East,Furniture,Product 17,4,56.83,Cash,C2847,38,M,3.8,10,No,204.59
+TXN1088,2023-03-30,107,East,Office Supplies,Product 2,7,311.64,Debit Card,C7851,61,M,1.9,15,Yes,1854.26
+TXN1089,2023-03-31,102,Central,Office Supplies,Product 11,9,97.63,Cash,C8211,49,F,2.1,30,No,615.07
+TXN1090,2023-04-01,102,Central,Technology,Product 9,9,442.86,Credit Card,C8865,40,F,3.6,0,No,3985.74
+TXN1091,2023-04-02,100,West,Office Supplies,Product 7,5,285.41,Cash,C4317,30,F,2.6,25,No,1070.29
+TXN1092,2023-04-03,104,West,Office Supplies,Product 17,1,364.86,Debit Card,C7811,22,F,1.8,0,No,364.86
+TXN1093,2023-04-04,109,South,Technology,Product 17,1,234.89,Credit Card,C1164,21,M,3.9,25,No,176.17
+TXN1094,2023-04-05,106,West,Office Supplies,Product 2,6,302.26,Debit Card,C8060,45,M,1.6,20,No,1450.85
+TXN1095,2023-04-06,109,East,Technology,Product 6,2,474.2,Credit Card,C4057,31,M,4.4,25,No,711.3
+TXN1096,2023-04-07,108,East,Technology,Product 14,8,87.23,Credit Card,C5428,25,F,3.1,20,No,558.27
+TXN1097,2023-04-08,106,Central,Office Supplies,Product 6,9,164.27,Online Payment,C1402,26,M,1.4,10,No,1330.59
+TXN1098,2023-04-09,108,East,Office Supplies,Product 2,4,400.99,Online Payment,C9605,52,F,3.8,20,No,1283.17
+TXN1099,2023-04-10,107,South,Furniture,Product 1,5,94.43,Online Payment,C9236,54,F,3.1,15,No,401.33
+TXN1100,2023-04-11,101,East,Technology,Product 10,8,84.05,Credit Card,C7349,38,F,2.2,20,No,537.92
+TXN1101,2023-04-12,100,East,Furniture,Product 5,3,212.69,Cash,C5157,35,M,2.7,15,No,542.36
+TXN1102,2023-04-13,106,South,Office Supplies,Product 2,5,91.48,Debit Card,C1867,50,F,2.2,30,No,320.18
+TXN1103,2023-04-14,106,West,Furniture,Product 16,3,313.29,Debit Card,C9210,25,F,2.1,30,No,657.91
+TXN1104,2023-04-15,107,West,Technology,Product 2,3,151.82,Debit Card,C1364,34,F,1.7,25,Yes,341.6
+TXN1105,2023-04-16,104,South,Furniture,Product 10,3,453.06,Online Payment,C8467,60,F,2.5,25,No,1019.38
+TXN1106,2023-04-17,102,Central,Technology,Product 2,7,402.58,Credit Card,C7571,48,F,2.0,25,No,2113.54
+TXN1107,2023-04-18,107,East,Office Supplies,Product 16,7,364.87,Online Payment,C1579,51,F,3.7,20,No,2043.27
+TXN1108,2023-04-19,105,South,Office Supplies,Product 16,7,327.62,Cash,C8674,23,F,3.7,25,No,1720.0
+TXN1109,2023-04-20,102,East,Technology,Product 19,8,438.56,Credit Card,C9737,39,F,3.0,20,No,2806.78
+TXN1110,2023-04-21,100,Central,Office Supplies,Product 7,5,150.38,Debit Card,C7468,31,F,4.1,20,No,601.52
+TXN1111,2023-04-22,102,East,Office Supplies,Product 12,5,442.9,Online Payment,C5150,20,F,4.4,5,No,2103.78
+TXN1112,2023-04-23,104,South,Office Supplies,Product 15,4,405.27,Online Payment,C4039,29,F,3.3,5,No,1540.03
+TXN1113,2023-04-24,102,East,Office Supplies,Product 8,7,386.67,Cash,C5137,53,F,3.5,20,No,2165.35
+TXN1114,2023-04-25,100,West,Technology,Product 6,4,302.57,Cash,C1452,29,M,2.1,30,No,847.2
+TXN1115,2023-04-26,104,Central,Furniture,Product 10,2,160.81,Online Payment,C7537,62,M,4.6,15,Yes,273.38
+TXN1116,2023-04-27,109,Central,Furniture,Product 3,4,240.6,Cash,C2381,19,F,1.1,10,No,866.16
+TXN1117,2023-04-28,106,Central,Office Supplies,Product 19,8,407.11,Debit Card,C9154,19,F,2.4,0,No,3256.88
+TXN1118,2023-04-29,106,South,Furniture,Product 17,9,64.3,Cash,C2467,32,F,3.9,5,No,549.76
+TXN1119,2023-04-30,108,Central,Furniture,Product 7,3,401.92,Cash,C3738,40,M,1.3,20,No,964.61
+TXN1120,2023-05-01,109,West,Office Supplies,Product 20,7,158.03,Online Payment,C8572,46,M,1.7,0,No,1106.21
+TXN1121,2023-05-02,109,South,Office Supplies,Product 4,9,114.94,Online Payment,C7747,34,M,3.4,5,Yes,982.74
+TXN1122,2023-05-03,102,West,Furniture,Product 14,4,102.07,Credit Card,C1880,49,F,3.2,10,No,367.45
+TXN1123,2023-05-04,106,East,Technology,Product 20,3,62.26,Credit Card,C4149,24,F,4.0,15,No,158.76
+TXN1124,2023-05-05,100,East,Office Supplies,Product 15,5,285.61,Online Payment,C9276,47,F,4.3,20,No,1142.44
+TXN1125,2023-05-06,103,East,Technology,Product 8,1,148.22,Cash,C8892,45,F,1.5,10,Yes,133.4
+TXN1126,2023-05-07,103,East,Furniture,Product 15,3,495.24,Cash,C5144,31,M,1.1,30,No,1040.0
+TXN1127,2023-05-08,104,West,Office Supplies,Product 20,8,308.5,Credit Card,C2168,61,F,3.8,5,No,2344.6
+TXN1128,2023-05-09,106,South,Technology,Product 14,8,112.05,Credit Card,C4129,47,M,2.2,20,No,717.12
+TXN1129,2023-05-10,106,South,Office Supplies,Product 9,4,359.94,Credit Card,C4645,34,M,3.5,0,No,1439.76
+TXN1130,2023-05-11,103,Central,Furniture,Product 8,2,453.98,Debit Card,C3526,49,F,1.6,30,No,635.57
+TXN1131,2023-05-12,106,West,Technology,Product 17,8,385.33,Debit Card,C4516,63,M,2.9,30,No,2157.85
+TXN1132,2023-05-13,102,East,Furniture,Product 2,8,84.4,Credit Card,C4367,23,M,3.0,25,No,506.4
+TXN1133,2023-05-14,105,West,Furniture,Product 3,4,453.15,Cash,C8338,41,M,3.3,15,No,1540.71
+TXN1134,2023-05-15,101,Central,Office Supplies,Product 8,3,407.27,Credit Card,C4555,23,M,3.1,30,No,855.27
+TXN1135,2023-05-16,109,Central,Technology,Product 12,2,121.24,Debit Card,C6111,44,F,3.0,5,No,230.36
+TXN1136,2023-05-17,108,West,Furniture,Product 1,9,73.3,Cash,C7752,35,F,2.3,15,Yes,560.74
+TXN1137,2023-05-18,104,West,Furniture,Product 10,1,300.79,Debit Card,C1445,41,M,1.3,20,No,240.63
+TXN1138,2023-05-19,105,West,Technology,Product 20,7,120.22,Cash,C7364,54,F,1.4,25,No,631.16
+TXN1139,2023-05-20,103,South,Furniture,Product 3,5,425.57,Debit Card,C4626,41,M,2.7,10,No,1915.06
+TXN1140,2023-05-21,109,East,Furniture,Product 6,8,211.25,Cash,C5016,55,F,2.4,15,No,1436.5
+TXN1141,2023-05-22,106,West,Technology,Product 7,4,460.8,Cash,C4875,51,F,3.1,0,No,1843.2
+TXN1142,2023-05-23,108,West,Technology,Product 20,7,304.56,Cash,C6497,57,F,2.2,5,No,2025.32
+TXN1143,2023-05-24,106,West,Technology,Product 18,5,132.2,Cash,C7238,64,F,3.8,0,No,661.0
+TXN1144,2023-05-25,100,Central,Technology,Product 11,5,112.82,Online Payment,C1261,32,F,4.5,15,No,479.48
+TXN1145,2023-05-26,100,Central,Office Supplies,Product 19,9,309.41,Debit Card,C5992,28,M,2.2,25,No,2088.52
+TXN1146,2023-05-27,108,South,Technology,Product 5,9,392.85,Debit Card,C5025,39,F,1.8,10,No,3182.08
+TXN1147,2023-05-28,108,East,Office Supplies,Product 19,9,401.68,Online Payment,C9283,41,M,1.5,10,No,3253.61
+TXN1148,2023-05-29,103,South,Office Supplies,Product 11,6,174.09,Cash,C5222,18,M,3.5,0,No,1044.54
+TXN1149,2023-05-30,108,East,Office Supplies,Product 12,6,141.91,Cash,C5175,35,F,2.8,20,No,681.17
+TXN1150,2023-05-31,102,Central,Furniture,Product 10,5,57.54,Debit Card,C4443,61,M,1.8,20,No,230.16
+TXN1151,2023-06-01,106,Central,Office Supplies,Product 8,9,355.64,Online Payment,C6011,29,F,3.6,25,No,2400.57
+TXN1152,2023-06-02,105,Central,Office Supplies,Product 9,8,84.46,Cash,C1693,60,M,1.6,10,No,608.11
+TXN1153,2023-06-03,107,South,Furniture,Product 4,7,239.34,Cash,C9347,45,M,3.2,0,No,1675.38
+TXN1154,2023-06-04,108,West,Furniture,Product 5,7,320.76,Cash,C2812,57,F,3.1,0,No,2245.32
+TXN1155,2023-06-05,104,West,Furniture,Product 8,6,471.7,Credit Card,C6724,24,F,3.9,0,No,2830.2
+TXN1156,2023-06-06,100,Central,Technology,Product 9,5,190.31,Online Payment,C2407,40,F,1.2,15,No,808.82
+TXN1157,2023-06-07,102,West,Furniture,Product 15,4,162.4,Cash,C9032,38,F,4.6,25,No,487.2
+TXN1158,2023-06-08,109,West,Furniture,Product 15,3,344.37,Credit Card,C2410,51,M,3.8,20,No,826.49
+TXN1159,2023-06-09,107,South,Office Supplies,Product 16,3,328.66,Online Payment,C4497,28,F,1.9,20,No,788.78
+TXN1160,2023-06-10,105,East,Furniture,Product 14,6,199.45,Cash,C5372,39,M,1.7,15,No,1017.19
+TXN1161,2023-06-11,107,Central,Technology,Product 8,4,467.65,Debit Card,C8394,59,M,2.7,5,No,1777.07
+TXN1162,2023-06-12,108,Central,Furniture,Product 18,6,430.19,Credit Card,C1551,52,M,4.3,15,No,2193.97
+TXN1163,2023-06-13,103,South,Technology,Product 10,3,150.79,Credit Card,C5332,46,M,4.4,25,No,339.28
+TXN1164,2023-06-14,100,South,Furniture,Product 20,4,157.61,Cash,C1997,59,M,3.1,0,Yes,630.44
+TXN1165,2023-06-15,100,West,Furniture,Product 6,9,280.54,Cash,C5076,45,M,4.4,15,Yes,2146.13
+TXN1166,2023-06-16,109,Central,Furniture,Product 12,5,398.11,Credit Card,C7099,35,F,1.0,0,No,1990.55
+TXN1167,2023-06-17,103,East,Furniture,Product 2,7,69.82,Debit Card,C6555,31,M,1.1,25,Yes,366.55
+TXN1168,2023-06-18,106,South,Technology,Product 7,2,362.0,Debit Card,C5052,35,M,4.6,30,No,506.8
+TXN1169,2023-06-19,101,East,Technology,Product 16,5,341.71,Online Payment,C6303,45,M,4.1,25,No,1281.41
+TXN1170,2023-06-20,102,East,Office Supplies,Product 3,9,154.17,Cash,C9118,41,F,2.8,10,Yes,1248.78
+TXN1171,2023-06-21,100,Central,Technology,Product 13,3,356.61,Debit Card,C7102,25,F,4.0,0,No,1069.83
+TXN1172,2023-06-22,104,Central,Furniture,Product 3,9,473.08,Online Payment,C6490,59,M,4.8,20,No,3406.18
+TXN1173,2023-06-23,100,South,Office Supplies,Product 18,6,71.05,Debit Card,C9564,62,F,4.1,15,No,362.35
+TXN1174,2023-06-24,107,Central,Office Supplies,Product 11,4,193.84,Cash,C6616,25,M,4.4,30,No,542.75
+TXN1175,2023-06-25,100,Central,Office Supplies,Product 8,7,247.18,Online Payment,C3248,21,F,4.0,25,No,1297.7
+TXN1176,2023-06-26,100,Central,Furniture,Product 6,8,454.67,Online Payment,C1848,44,M,1.7,0,No,3637.36
+TXN1177,2023-06-27,101,East,Technology,Product 1,6,483.02,Online Payment,C7354,53,F,4.3,30,No,2028.68
+TXN1178,2023-06-28,101,South,Furniture,Product 1,5,249.85,Debit Card,C9695,22,F,1.8,5,No,1186.79
+TXN1179,2023-06-29,105,West,Office Supplies,Product 8,6,387.51,Cash,C9070,50,F,4.6,10,No,2092.55
+TXN1180,2023-06-30,106,East,Furniture,Product 5,5,289.25,Online Payment,C9894,51,M,2.8,5,No,1373.94
+TXN1181,2023-07-01,104,Central,Furniture,Product 16,8,292.0,Credit Card,C4625,47,M,3.7,25,No,1752.0
+TXN1182,2023-07-02,100,East,Technology,Product 11,1,175.14,Cash,C1314,25,M,3.0,5,No,166.38
+TXN1183,2023-07-03,100,Central,Technology,Product 5,7,147.63,Credit Card,C3376,56,F,1.4,5,No,981.74
+TXN1184,2023-07-04,102,Central,Office Supplies,Product 4,2,179.6,Credit Card,C5378,64,F,2.2,10,No,323.28
+TXN1185,2023-07-05,101,East,Furniture,Product 6,9,300.35,Online Payment,C9449,43,M,4.9,10,No,2432.84
+TXN1186,2023-07-06,104,South,Furniture,Product 14,1,63.12,Online Payment,C1574,54,F,4.8,10,No,56.81
+TXN1187,2023-07-07,109,Central,Technology,Product 19,6,458.26,Debit Card,C6585,51,M,2.3,30,No,1924.69
+TXN1188,2023-07-08,105,South,Furniture,Product 9,9,120.33,Debit Card,C6492,24,M,5.0,10,No,974.67
+TXN1189,2023-07-09,106,West,Furniture,Product 12,1,149.04,Debit Card,C9949,57,M,4.4,5,No,141.59
+TXN1190,2023-07-10,103,Central,Furniture,Product 11,4,283.22,Cash,C3810,45,M,3.4,20,No,906.3
+TXN1191,2023-07-11,106,South,Technology,Product 14,4,369.55,Debit Card,C9134,56,F,1.2,20,No,1182.56
+TXN1192,2023-07-12,107,South,Office Supplies,Product 16,9,93.08,Credit Card,C6670,56,F,4.6,10,No,753.95
+TXN1193,2023-07-13,100,West,Office Supplies,Product 1,5,192.96,Debit Card,C8715,45,F,3.2,30,No,675.36
+TXN1194,2023-07-14,105,South,Furniture,Product 13,5,485.9,Online Payment,C7567,31,M,4.5,15,No,2065.07
+TXN1195,2023-07-15,107,South,Office Supplies,Product 13,6,168.05,Debit Card,C4459,55,F,4.3,0,No,1008.3
+TXN1196,2023-07-16,104,West,Technology,Product 2,1,190.87,Cash,C7117,21,M,4.3,25,No,143.15
+TXN1197,2023-07-17,103,Central,Technology,Product 4,1,426.42,Cash,C4992,59,M,3.8,30,Yes,298.49
+TXN1198,2023-07-18,101,South,Office Supplies,Product 6,9,72.6,Credit Card,C8837,35,M,2.2,15,No,555.39
+TXN1199,2023-07-19,105,South,Office Supplies,Product 5,3,259.08,Cash,C1203,61,M,2.3,25,No,582.93
+TXN1200,2023-07-20,105,South,Furniture,Product 3,4,220.83,Debit Card,C3775,42,M,2.2,15,No,750.82
+TXN1201,2023-07-21,100,East,Office Supplies,Product 1,1,192.46,Online Payment,C2992,24,M,1.1,15,No,163.59
+TXN1202,2023-07-22,108,West,Furniture,Product 4,9,178.56,Cash,C3243,55,F,3.3,20,No,1285.63
+TXN1203,2023-07-23,105,East,Furniture,Product 20,8,91.12,Credit Card,C9498,45,F,3.8,0,No,728.96
+TXN1204,2023-07-24,102,West,Technology,Product 2,2,191.67,Debit Card,C2687,22,F,4.4,15,Yes,325.84
+TXN1205,2023-07-25,103,Central,Technology,Product 5,8,69.37,Credit Card,C5109,20,F,1.6,10,No,499.46
+TXN1206,2023-07-26,103,Central,Technology,Product 3,7,401.43,Cash,C2860,61,M,3.2,25,No,2107.51
+TXN1207,2023-07-27,102,South,Technology,Product 9,6,229.2,Cash,C6176,48,M,1.0,30,No,962.64
+TXN1208,2023-07-28,109,West,Office Supplies,Product 20,1,249.76,Credit Card,C1722,64,F,1.4,20,No,199.81
+TXN1209,2023-07-29,102,Central,Technology,Product 6,7,452.12,Debit Card,C9971,59,F,1.2,25,No,2373.63
+TXN1210,2023-07-30,102,West,Office Supplies,Product 18,7,346.12,Cash,C9720,37,F,3.9,10,No,2180.56
+TXN1211,2023-07-31,103,Central,Technology,Product 6,9,53.63,Online Payment,C5893,36,F,1.3,10,No,434.4
+TXN1212,2023-08-01,106,East,Office Supplies,Product 19,1,474.43,Cash,C1343,28,F,3.9,15,No,403.27
+TXN1213,2023-08-02,103,Central,Furniture,Product 12,2,156.72,Debit Card,C6398,57,F,2.0,10,No,282.1
+TXN1214,2023-08-03,108,East,Office Supplies,Product 11,9,98.43,Cash,C9400,20,F,4.5,0,No,885.87
+TXN1215,2023-08-04,100,Central,Office Supplies,Product 2,9,395.66,Credit Card,C5736,40,F,4.3,10,No,3204.85
+TXN1216,2023-08-05,107,South,Technology,Product 15,6,275.21,Cash,C4406,24,M,4.8,15,No,1403.57
+TXN1217,2023-08-06,106,East,Office Supplies,Product 12,6,245.2,Cash,C1919,40,M,4.5,25,No,1103.4
+TXN1218,2023-08-07,101,Central,Furniture,Product 12,4,162.28,Debit Card,C6819,24,M,4.7,10,No,584.21
+TXN1219,2023-08-08,107,South,Furniture,Product 9,4,296.36,Credit Card,C3044,63,M,4.4,20,No,948.35
+TXN1220,2023-08-09,100,East,Technology,Product 2,5,173.47,Debit Card,C1418,51,F,3.8,30,Yes,607.14
+TXN1221,2023-08-10,108,South,Furniture,Product 3,3,455.71,Cash,C2749,59,M,1.7,20,No,1093.7
+TXN1222,2023-08-11,108,West,Office Supplies,Product 12,1,146.84,Online Payment,C8378,36,F,2.1,20,No,117.47
+TXN1223,2023-08-12,101,West,Furniture,Product 16,1,447.96,Cash,C2099,26,M,1.9,25,No,335.97
+TXN1224,2023-08-13,106,East,Technology,Product 1,7,301.73,Debit Card,C4392,35,F,3.4,5,No,2006.5
+TXN1225,2023-08-14,109,Central,Office Supplies,Product 3,1,422.82,Online Payment,C3772,58,F,3.0,30,No,295.97
+TXN1226,2023-08-15,102,East,Technology,Product 20,1,370.78,Debit Card,C7784,62,M,4.5,20,No,296.62
+TXN1227,2023-08-16,106,South,Office Supplies,Product 2,3,363.51,Debit Card,C2545,59,M,4.8,20,No,872.42
+TXN1228,2023-08-17,109,Central,Furniture,Product 9,4,195.96,Credit Card,C2070,42,F,2.6,5,No,744.65
+TXN1229,2023-08-18,108,West,Technology,Product 19,4,155.25,Online Payment,C7522,31,F,3.0,25,No,465.75
+TXN1230,2023-08-19,103,Central,Technology,Product 15,2,144.9,Cash,C2850,61,F,4.9,30,No,202.86
+TXN1231,2023-08-20,100,West,Office Supplies,Product 18,1,435.74,Debit Card,C6053,42,M,2.1,20,No,348.59
+TXN1232,2023-08-21,101,Central,Technology,Product 11,3,419.19,Cash,C3939,36,M,4.2,15,No,1068.93
+TXN1233,2023-08-22,100,Central,Office Supplies,Product 16,4,248.26,Credit Card,C8194,56,F,1.9,25,No,744.78
+TXN1234,2023-08-23,104,Central,Office Supplies,Product 17,3,109.58,Credit Card,C6851,32,M,3.7,30,No,230.12
+TXN1235,2023-08-24,104,South,Office Supplies,Product 5,8,222.01,Online Payment,C7673,33,F,2.0,20,No,1420.86
+TXN1236,2023-08-25,106,South,Office Supplies,Product 12,1,328.7,Credit Card,C1678,44,M,4.5,20,No,262.96
+TXN1237,2023-08-26,108,East,Furniture,Product 11,2,254.48,Credit Card,C1988,57,M,3.2,5,No,483.51
+TXN1238,2023-08-27,108,East,Office Supplies,Product 15,7,401.09,Cash,C2502,27,M,1.7,30,No,1965.34
+TXN1239,2023-08-28,102,West,Technology,Product 3,4,498.93,Credit Card,C2789,21,M,1.9,15,No,1696.36
+TXN1240,2023-08-29,102,South,Furniture,Product 1,8,136.01,Credit Card,C6281,36,M,3.0,25,No,816.06
+TXN1241,2023-08-30,102,West,Technology,Product 20,3,256.84,Debit Card,C6027,45,F,4.8,10,No,693.47
+TXN1242,2023-08-31,103,East,Furniture,Product 16,6,243.94,Credit Card,C2425,38,F,4.1,0,No,1463.64
+TXN1243,2023-09-01,107,West,Office Supplies,Product 2,9,187.02,Debit Card,C7654,64,M,3.0,15,Yes,1430.7
+TXN1244,2023-09-02,105,East,Furniture,Product 2,1,139.14,Credit Card,C3440,31,F,2.4,10,No,125.23
+TXN1245,2023-09-03,107,South,Furniture,Product 3,1,79.56,Credit Card,C7856,50,F,3.2,15,No,67.63
+TXN1246,2023-09-04,100,Central,Technology,Product 8,8,449.2,Online Payment,C8367,27,M,4.0,30,No,2515.52
+TXN1247,2023-09-05,107,South,Technology,Product 15,3,238.93,Online Payment,C3594,36,F,4.1,10,No,645.11
+TXN1248,2023-09-06,103,West,Office Supplies,Product 7,5,273.6,Debit Card,C5689,47,M,2.3,30,No,957.6
+TXN1249,2023-09-07,100,West,Furniture,Product 6,1,462.62,Credit Card,C3436,39,F,3.9,10,Yes,416.36
+TXN1250,2023-09-08,107,South,Furniture,Product 9,5,399.33,Cash,C6517,20,F,3.6,15,No,1697.15
+TXN1251,2023-09-09,103,South,Furniture,Product 20,6,108.73,Online Payment,C7310,54,F,4.8,5,No,619.76
+TXN1252,2023-09-10,105,East,Office Supplies,Product 1,8,304.44,Cash,C4539,58,F,4.7,15,No,2070.19
+TXN1253,2023-09-11,107,West,Office Supplies,Product 8,3,249.01,Online Payment,C4483,35,F,4.2,30,No,522.92
+TXN1254,2023-09-12,103,West,Office Supplies,Product 3,3,408.74,Online Payment,C8371,28,F,3.9,15,No,1042.29
+TXN1255,2023-09-13,102,South,Office Supplies,Product 4,9,375.9,Credit Card,C3241,19,F,2.1,10,No,3044.79
+TXN1256,2023-09-14,108,Central,Office Supplies,Product 15,4,360.68,Online Payment,C7378,29,M,4.4,0,No,1442.72
+TXN1257,2023-09-15,102,West,Technology,Product 6,4,203.25,Cash,C3765,23,M,2.7,10,No,731.7
+TXN1258,2023-09-16,108,Central,Furniture,Product 15,7,412.23,Online Payment,C5911,60,M,2.1,20,No,2308.49
+TXN1259,2023-09-17,101,South,Furniture,Product 3,2,73.58,Debit Card,C1403,57,M,2.5,15,No,125.09
+TXN1260,2023-09-18,101,South,Furniture,Product 14,8,121.83,Credit Card,C4382,61,F,4.3,25,No,730.98
+TXN1261,2023-09-19,101,East,Furniture,Product 20,6,201.03,Credit Card,C5163,46,F,1.6,15,No,1025.25
+TXN1262,2023-09-20,105,West,Furniture,Product 14,3,84.56,Debit Card,C8630,47,F,2.8,5,No,241.0
+TXN1263,2023-09-21,102,Central,Furniture,Product 4,9,155.75,Debit Card,C1087,19,M,3.0,30,No,981.22
+TXN1264,2023-09-22,108,East,Furniture,Product 12,5,423.57,Debit Card,C6816,26,M,1.1,25,No,1588.39
+TXN1265,2023-09-23,103,West,Furniture,Product 17,8,476.71,Online Payment,C6470,64,M,1.8,10,No,3432.31
+TXN1266,2023-09-24,100,East,Technology,Product 7,7,187.07,Credit Card,C7276,19,F,4.3,5,No,1244.02
+TXN1267,2023-09-25,103,South,Furniture,Product 9,8,169.03,Debit Card,C6739,46,M,4.3,15,No,1149.4
+TXN1268,2023-09-26,100,West,Technology,Product 3,7,175.95,Online Payment,C5273,50,F,2.2,10,No,1108.48
+TXN1269,2023-09-27,104,East,Office Supplies,Product 13,3,174.97,Debit Card,C7523,27,M,4.5,10,No,472.42
+TXN1270,2023-09-28,103,East,Furniture,Product 15,2,66.17,Cash,C6003,51,F,4.1,20,No,105.87
+TXN1271,2023-09-29,107,Central,Office Supplies,Product 18,7,467.11,Cash,C9038,61,M,2.7,20,No,2615.82
+TXN1272,2023-09-30,107,East,Office Supplies,Product 19,3,146.16,Credit Card,C7606,25,F,4.0,0,No,438.48
+TXN1273,2023-10-01,106,West,Office Supplies,Product 1,3,239.0,Online Payment,C3064,54,M,4.8,20,No,573.6
+TXN1274,2023-10-02,102,West,Technology,Product 6,2,54.36,Cash,C6315,50,M,2.8,30,No,76.1
+TXN1275,2023-10-03,100,Central,Office Supplies,Product 2,4,436.08,Cash,C1317,64,F,2.0,25,No,1308.24
+TXN1276,2023-10-04,100,West,Office Supplies,Product 14,8,379.02,Online Payment,C2502,23,F,4.8,10,No,2728.94
+TXN1277,2023-10-05,102,South,Office Supplies,Product 6,1,476.04,Debit Card,C7130,61,M,3.4,20,No,380.83
+TXN1278,2023-10-06,105,West,Furniture,Product 14,1,401.73,Online Payment,C8419,57,F,1.4,0,No,401.73
+TXN1279,2023-10-07,106,West,Furniture,Product 4,5,191.17,Debit Card,C3042,62,M,3.3,15,No,812.47
+TXN1280,2023-10-08,105,East,Technology,Product 8,5,161.54,Cash,C5598,36,F,3.0,25,No,605.78
+TXN1281,2023-10-09,105,East,Technology,Product 3,1,363.97,Cash,C1118,49,M,4.4,20,No,291.18
+TXN1282,2023-10-10,105,West,Furniture,Product 19,6,213.85,Cash,C1709,44,F,3.1,10,No,1154.79
+TXN1283,2023-10-11,102,Central,Technology,Product 14,1,304.8,Credit Card,C4557,18,M,2.0,15,No,259.08
+TXN1284,2023-10-12,105,East,Furniture,Product 20,5,52.82,Credit Card,C4250,60,M,3.7,30,No,184.87
+TXN1285,2023-10-13,107,Central,Office Supplies,Product 17,9,77.85,Credit Card,C9061,50,M,3.2,10,No,630.58
+TXN1286,2023-10-14,101,West,Office Supplies,Product 8,5,290.92,Online Payment,C9609,57,F,1.9,15,No,1236.41
+TXN1287,2023-10-15,104,West,Technology,Product 14,6,304.73,Cash,C3603,49,M,3.3,30,No,1279.87
+TXN1288,2023-10-16,100,South,Furniture,Product 6,8,388.15,Cash,C2101,22,F,4.3,30,No,2173.64
+TXN1289,2023-10-17,100,East,Furniture,Product 16,1,109.38,Online Payment,C5421,34,F,1.1,25,No,82.04
+TXN1290,2023-10-18,104,West,Technology,Product 19,2,280.93,Credit Card,C8857,25,F,3.5,10,No,505.67
+TXN1291,2023-10-19,102,South,Furniture,Product 14,9,137.5,Online Payment,C9177,59,M,2.4,20,No,990.0
+TXN1292,2023-10-20,103,East,Office Supplies,Product 19,3,91.94,Credit Card,C7082,51,F,2.2,20,No,220.66
+TXN1293,2023-10-21,102,West,Technology,Product 3,6,234.72,Cash,C7658,26,F,2.6,0,No,1408.32
+TXN1294,2023-10-22,100,West,Technology,Product 10,5,123.5,Debit Card,C3261,40,F,2.4,15,No,524.88
+TXN1295,2023-10-23,100,East,Furniture,Product 19,2,149.8,Credit Card,C9021,52,M,4.3,0,No,299.6
+TXN1296,2023-10-24,104,East,Technology,Product 9,7,192.9,Cash,C1508,24,F,2.1,5,No,1282.78
+TXN1297,2023-10-25,105,East,Furniture,Product 20,4,166.72,Cash,C3379,32,F,3.9,20,No,533.5
+TXN1298,2023-10-26,102,West,Furniture,Product 13,1,89.42,Debit Card,C9879,37,F,1.4,15,No,76.01
+TXN1299,2023-10-27,108,West,Furniture,Product 7,4,90.46,Cash,C5752,42,F,4.8,25,No,271.38
+TXN1300,2023-10-28,104,South,Furniture,Product 14,6,136.96,Cash,C6495,20,M,3.5,0,No,821.76
+TXN1301,2023-10-29,107,Central,Furniture,Product 9,7,72.75,Credit Card,C4209,63,M,3.8,25,No,381.94
+TXN1302,2023-10-30,100,East,Technology,Product 19,7,331.91,Credit Card,C8398,41,F,2.2,25,No,1742.53
+TXN1303,2023-10-31,104,West,Office Supplies,Product 15,7,179.3,Debit Card,C7743,51,F,2.6,25,No,941.32
+TXN1304,2023-11-01,102,West,Office Supplies,Product 20,3,175.89,Debit Card,C6648,63,F,1.9,0,No,527.67
+TXN1305,2023-11-02,100,East,Technology,Product 14,6,199.4,Cash,C6171,39,F,4.7,5,No,1136.58
+TXN1306,2023-11-03,103,Central,Technology,Product 6,8,348.26,Credit Card,C8890,28,M,3.0,30,No,1950.26
+TXN1307,2023-11-04,104,East,Office Supplies,Product 4,4,441.79,Debit Card,C1324,25,M,3.5,30,No,1237.01
+TXN1308,2023-11-05,106,Central,Office Supplies,Product 8,8,391.59,Debit Card,C4557,56,M,3.9,0,No,3132.72
+TXN1309,2023-11-06,100,West,Office Supplies,Product 17,2,377.39,Online Payment,C4587,60,M,2.5,30,No,528.35
+TXN1310,2023-11-07,102,Central,Office Supplies,Product 9,9,267.98,Debit Card,C1151,52,F,3.9,10,No,2170.64
+TXN1311,2023-11-08,101,South,Office Supplies,Product 1,9,362.21,Cash,C1954,63,F,3.7,30,No,2281.92
+TXN1312,2023-11-09,108,West,Furniture,Product 20,8,298.74,Credit Card,C5354,55,M,3.8,20,No,1911.94
+TXN1313,2023-11-10,109,South,Technology,Product 14,1,147.31,Debit Card,C8160,25,M,3.0,0,No,147.31
+TXN1314,2023-11-11,105,East,Furniture,Product 11,2,143.86,Online Payment,C1687,54,F,2.5,30,No,201.4
+TXN1315,2023-11-12,109,East,Office Supplies,Product 3,6,183.38,Credit Card,C9501,44,F,1.9,0,No,1100.28
+TXN1316,2023-11-13,102,East,Office Supplies,Product 9,5,459.86,Debit Card,C4127,45,F,4.3,5,No,2184.34
+TXN1317,2023-11-14,107,Central,Office Supplies,Product 14,9,296.34,Online Payment,C7763,57,F,3.4,10,No,2400.35
+TXN1318,2023-11-15,107,West,Furniture,Product 9,5,380.26,Debit Card,C4395,51,F,2.8,0,No,1901.3
+TXN1319,2023-11-16,101,East,Furniture,Product 4,2,205.95,Credit Card,C1845,49,M,4.8,20,No,329.52
+TXN1320,2023-11-17,105,East,Office Supplies,Product 4,4,233.47,Credit Card,C2164,32,M,1.2,30,No,653.72
+TXN1321,2023-11-18,106,West,Furniture,Product 8,9,106.5,Credit Card,C6904,61,F,4.4,20,No,766.8
+TXN1322,2023-11-19,101,East,Furniture,Product 2,1,127.08,Cash,C6360,34,F,5.0,30,No,88.96
+TXN1323,2023-11-20,109,South,Office Supplies,Product 9,1,422.31,Debit Card,C1354,50,M,4.5,0,No,422.31
+TXN1324,2023-11-21,101,West,Furniture,Product 14,7,313.18,Cash,C2872,64,F,4.2,25,Yes,1644.2
+TXN1325,2023-11-22,109,West,Technology,Product 9,3,201.89,Credit Card,C3024,63,M,2.5,30,Yes,423.97
+TXN1326,2023-11-23,100,West,Technology,Product 16,2,411.28,Online Payment,C3817,33,M,1.9,25,No,616.92
+TXN1327,2023-11-24,107,South,Technology,Product 17,9,160.93,Debit Card,C4832,46,M,3.9,10,No,1303.53
+TXN1328,2023-11-25,100,West,Technology,Product 16,3,489.21,Cash,C9257,26,M,2.2,20,No,1174.1
+TXN1329,2023-11-26,108,South,Office Supplies,Product 12,2,205.17,Debit Card,C3581,50,F,1.7,25,No,307.76
+TXN1330,2023-11-27,105,West,Office Supplies,Product 3,8,201.79,Online Payment,C3486,46,F,4.1,20,No,1291.46
+TXN1331,2023-11-28,106,Central,Office Supplies,Product 11,6,190.36,Cash,C9418,30,M,2.3,30,Yes,799.51
+TXN1332,2023-11-29,109,East,Technology,Product 14,6,104.95,Credit Card,C3443,38,F,4.7,30,No,440.79
+TXN1333,2023-11-30,106,Central,Technology,Product 18,7,100.01,Cash,C9919,38,F,4.4,10,No,630.06
+TXN1334,2023-12-01,109,East,Furniture,Product 5,7,341.65,Debit Card,C2036,22,F,4.4,30,No,1674.08
+TXN1335,2023-12-02,102,South,Furniture,Product 16,6,443.8,Debit Card,C9684,27,F,4.1,10,No,2396.52
+TXN1336,2023-12-03,101,Central,Technology,Product 20,4,405.73,Debit Card,C8435,23,M,4.5,25,No,1217.19
+TXN1337,2023-12-04,108,West,Technology,Product 5,9,113.5,Debit Card,C2548,30,F,4.2,30,No,715.05
+TXN1338,2023-12-05,107,East,Technology,Product 3,6,295.51,Credit Card,C6065,18,M,3.4,0,No,1773.06
+TXN1339,2023-12-06,109,East,Technology,Product 12,4,97.52,Cash,C7496,37,M,2.2,15,Yes,331.57
+TXN1340,2023-12-07,106,Central,Furniture,Product 1,3,70.38,Credit Card,C7183,64,F,4.6,5,No,200.58
+TXN1341,2023-12-08,108,South,Technology,Product 9,4,345.37,Credit Card,C4957,63,M,4.4,15,No,1174.26
+TXN1342,2023-12-09,103,Central,Furniture,Product 9,3,290.82,Credit Card,C4407,25,F,2.9,15,No,741.59
+TXN1343,2023-12-10,103,South,Technology,Product 4,2,86.91,Debit Card,C1639,27,F,1.2,20,Yes,139.06
+TXN1344,2023-12-11,100,South,Technology,Product 3,5,65.72,Debit Card,C1172,26,M,3.6,10,No,295.74
+TXN1345,2023-12-12,107,East,Technology,Product 17,2,495.39,Debit Card,C6666,58,F,1.2,20,No,792.62
+TXN1346,2023-12-13,102,Central,Furniture,Product 2,6,63.51,Cash,C5354,20,M,4.7,25,No,285.8
+TXN1347,2023-12-14,106,Central,Furniture,Product 1,3,250.04,Online Payment,C4959,28,M,4.8,5,Yes,712.61
+TXN1348,2023-12-15,101,South,Office Supplies,Product 8,6,277.08,Debit Card,C9708,29,F,1.8,25,No,1246.86
+TXN1349,2023-12-16,101,Central,Technology,Product 13,9,102.78,Cash,C9714,27,F,3.7,0,No,925.02
+TXN1350,2023-12-17,106,West,Office Supplies,Product 15,1,126.08,Debit Card,C3886,42,F,1.4,5,No,119.78
+TXN1351,2023-12-18,105,West,Office Supplies,Product 8,6,208.31,Debit Card,C3164,42,M,3.9,20,No,999.89
+TXN1352,2023-12-19,102,Central,Furniture,Product 12,9,392.75,Credit Card,C4945,28,F,2.4,30,No,2474.32
+TXN1353,2023-12-20,108,Central,Furniture,Product 12,4,278.19,Credit Card,C6235,53,M,3.7,30,No,778.93
+TXN1354,2023-12-21,109,South,Office Supplies,Product 14,2,337.06,Credit Card,C8746,56,M,2.5,20,No,539.3
+TXN1355,2023-12-22,105,West,Technology,Product 15,4,493.33,Cash,C3590,43,F,1.6,25,No,1479.99
+TXN1356,2023-12-23,109,West,Furniture,Product 15,1,395.6,Online Payment,C8754,31,F,2.6,20,No,316.48
+TXN1357,2023-12-24,109,East,Technology,Product 9,3,245.46,Online Payment,C5934,56,F,1.5,20,Yes,589.1
+TXN1358,2023-12-25,105,South,Technology,Product 19,9,250.9,Cash,C5076,57,M,3.3,15,No,1919.38
+TXN1359,2023-12-26,100,East,Office Supplies,Product 20,5,328.45,Debit Card,C6185,18,F,1.2,0,No,1642.25
+TXN1360,2023-12-27,103,West,Office Supplies,Product 8,6,349.41,Cash,C2093,21,M,3.1,30,No,1467.52
+TXN1361,2023-12-28,109,South,Office Supplies,Product 19,3,275.32,Debit Card,C4880,47,F,4.5,15,No,702.07
+TXN1362,2023-12-29,105,Central,Office Supplies,Product 6,5,340.19,Cash,C7559,29,F,4.4,20,No,1360.76
+TXN1363,2023-12-30,105,South,Furniture,Product 20,8,60.59,Cash,C3785,52,M,4.5,10,No,436.25
+TXN1364,2023-12-31,104,Central,Furniture,Product 19,6,243.33,Cash,C7065,30,M,4.7,15,Yes,1240.98
+TXN1365,2024-01-01,100,Central,Office Supplies,Product 4,4,175.52,Online Payment,C7539,48,F,1.4,20,No,561.66
+TXN1366,2024-01-02,107,South,Furniture,Product 7,2,108.13,Credit Card,C2574,55,F,1.5,30,Yes,151.38
+TXN1367,2024-01-03,104,Central,Office Supplies,Product 4,9,94.8,Cash,C6676,60,F,3.2,20,No,682.56
+TXN1368,2024-01-04,104,East,Technology,Product 12,1,321.44,Online Payment,C9060,40,F,4.6,0,No,321.44
+TXN1369,2024-01-05,106,West,Technology,Product 13,1,285.62,Credit Card,C4990,21,F,4.9,25,No,214.22
+TXN1370,2024-01-06,103,Central,Technology,Product 3,4,164.11,Credit Card,C6210,33,M,1.2,5,No,623.62
+TXN1371,2024-01-07,105,East,Office Supplies,Product 12,7,261.93,Cash,C5845,24,M,2.4,15,No,1558.48
+TXN1372,2024-01-08,103,Central,Technology,Product 2,1,271.5,Debit Card,C2189,39,M,1.9,15,Yes,230.78
+TXN1373,2024-01-09,102,West,Furniture,Product 2,9,137.75,Debit Card,C3689,46,M,4.0,15,No,1053.79
+TXN1374,2024-01-10,106,East,Technology,Product 9,4,343.44,Debit Card,C5095,28,F,3.6,20,No,1099.01
+TXN1375,2024-01-11,107,West,Technology,Product 1,3,401.41,Cash,C2875,50,M,1.5,0,No,1204.23
+TXN1376,2024-01-12,103,West,Technology,Product 8,1,406.16,Debit Card,C8768,46,M,2.9,20,No,324.93
+TXN1377,2024-01-13,101,East,Furniture,Product 6,4,321.11,Online Payment,C4406,56,M,3.7,20,No,1027.55
+TXN1378,2024-01-14,109,East,Office Supplies,Product 6,9,280.24,Online Payment,C4932,29,F,4.1,25,No,1891.62
+TXN1379,2024-01-15,102,East,Furniture,Product 18,6,77.45,Online Payment,C9240,24,M,1.1,10,No,418.23
+TXN1380,2024-01-16,100,South,Office Supplies,Product 17,6,179.52,Online Payment,C6408,56,F,4.6,0,No,1077.12
+TXN1381,2024-01-17,107,East,Office Supplies,Product 12,1,91.97,Credit Card,C4861,59,M,3.3,15,No,78.17
+TXN1382,2024-01-18,102,East,Technology,Product 6,2,483.72,Online Payment,C8406,43,F,4.2,5,No,919.07
+TXN1383,2024-01-19,109,East,Office Supplies,Product 8,6,110.79,Debit Card,C3833,57,M,4.2,15,No,565.03
+TXN1384,2024-01-20,106,East,Furniture,Product 19,2,118.3,Cash,C6285,26,F,1.8,20,No,189.28
+TXN1385,2024-01-21,109,Central,Furniture,Product 10,3,450.31,Debit Card,C8645,58,M,1.4,0,No,1350.93
+TXN1386,2024-01-22,104,South,Office Supplies,Product 1,4,474.77,Online Payment,C5777,51,F,3.9,30,No,1329.36
+TXN1387,2024-01-23,109,West,Technology,Product 13,5,394.62,Credit Card,C3735,62,F,1.6,0,No,1973.1
+TXN1388,2024-01-24,104,East,Technology,Product 17,9,52.43,Online Payment,C9273,30,M,4.4,0,Yes,471.87
+TXN1389,2024-01-25,106,Central,Furniture,Product 3,4,50.61,Cash,C9278,53,F,3.9,10,No,182.2
+TXN1390,2024-01-26,108,Central,Technology,Product 8,9,220.15,Debit Card,C7368,42,F,4.4,15,No,1684.15
+TXN1391,2024-01-27,104,Central,Office Supplies,Product 14,3,114.53,Cash,C1821,41,M,2.2,10,No,309.23
+TXN1392,2024-01-28,100,West,Office Supplies,Product 3,8,58.27,Cash,C8525,61,M,2.3,30,No,326.31
+TXN1393,2024-01-29,109,East,Furniture,Product 16,1,258.83,Cash,C1162,34,F,3.7,30,No,181.18
+TXN1394,2024-01-30,109,South,Office Supplies,Product 13,9,474.38,Debit Card,C8777,19,M,1.1,25,No,3202.06
+TXN1395,2024-01-31,100,South,Furniture,Product 20,9,195.72,Online Payment,C2932,30,M,3.9,5,No,1673.41
+TXN1396,2024-02-01,101,Central,Office Supplies,Product 17,2,347.51,Cash,C4535,48,M,4.3,25,No,521.26
+TXN1397,2024-02-02,105,West,Furniture,Product 13,4,343.51,Debit Card,C6956,46,F,2.7,20,No,1099.23
+TXN1398,2024-02-03,108,West,Technology,Product 6,8,162.99,Credit Card,C4446,45,F,4.1,10,No,1173.53
+TXN1399,2024-02-04,107,West,Office Supplies,Product 17,7,342.69,Debit Card,C3790,44,F,1.7,10,No,2158.95
+TXN1400,2024-02-05,104,South,Office Supplies,Product 14,1,145.55,Credit Card,C3707,32,F,2.3,25,No,109.16
+TXN1401,2024-02-06,100,Central,Furniture,Product 17,5,104.9,Debit Card,C8959,48,F,4.9,20,No,419.6
+TXN1402,2024-02-07,106,East,Furniture,Product 8,7,365.62,Online Payment,C4933,57,F,4.9,0,Yes,2559.34
+TXN1403,2024-02-08,104,South,Office Supplies,Product 11,4,101.05,Cash,C4385,32,F,3.1,20,No,323.36
+TXN1404,2024-02-09,105,Central,Furniture,Product 20,1,498.61,Online Payment,C7636,50,M,4.7,15,No,423.82
+TXN1405,2024-02-10,106,Central,Office Supplies,Product 1,9,132.55,Debit Card,C1922,37,F,3.1,25,No,894.71
+TXN1406,2024-02-11,102,East,Technology,Product 7,5,317.36,Cash,C9089,59,F,2.2,20,No,1269.44
+TXN1407,2024-02-12,109,East,Furniture,Product 17,2,235.12,Credit Card,C1564,29,M,2.1,0,No,470.24
+TXN1408,2024-02-13,102,East,Office Supplies,Product 10,8,106.87,Debit Card,C4258,54,M,4.7,20,No,683.97
+TXN1409,2024-02-14,104,West,Technology,Product 11,2,62.53,Cash,C3500,26,M,1.7,10,No,112.55
+TXN1410,2024-02-15,105,East,Technology,Product 9,3,330.23,Credit Card,C5566,40,F,3.3,5,No,941.16
+TXN1411,2024-02-16,108,Central,Office Supplies,Product 9,1,413.04,Credit Card,C7881,25,M,3.2,10,No,371.74
+TXN1412,2024-02-17,104,East,Furniture,Product 5,2,428.91,Online Payment,C4636,49,F,4.0,30,No,600.47
+TXN1413,2024-02-18,100,Central,Office Supplies,Product 17,7,267.22,Debit Card,C7030,31,F,3.0,5,No,1777.01
+TXN1414,2024-02-19,103,South,Technology,Product 9,2,399.85,Credit Card,C1223,44,F,2.1,30,No,559.79
+TXN1415,2024-02-20,104,West,Office Supplies,Product 17,6,352.78,Cash,C7297,42,M,1.7,20,No,1693.34
+TXN1416,2024-02-21,109,South,Furniture,Product 19,3,375.91,Credit Card,C1350,30,M,3.5,15,No,958.57
+TXN1417,2024-02-22,109,South,Technology,Product 7,4,271.67,Credit Card,C8314,38,F,3.9,20,Yes,869.34
+TXN1418,2024-02-23,104,Central,Office Supplies,Product 9,8,335.04,Online Payment,C2928,62,F,3.3,0,No,2680.32
+TXN1419,2024-02-24,106,South,Furniture,Product 7,3,412.49,Online Payment,C8743,48,F,4.0,20,No,989.98
+TXN1420,2024-02-25,103,Central,Technology,Product 13,6,229.05,Cash,C9540,54,M,1.6,5,No,1305.58
+TXN1421,2024-02-26,100,East,Furniture,Product 11,1,412.69,Online Payment,C5732,60,F,4.5,10,No,371.42
+TXN1422,2024-02-27,104,East,Technology,Product 14,7,316.41,Credit Card,C2017,22,M,3.3,15,No,1882.64
+TXN1423,2024-02-28,106,Central,Office Supplies,Product 19,8,124.66,Credit Card,C3226,30,F,1.5,30,No,698.1
+TXN1424,2024-02-29,109,East,Furniture,Product 11,8,61.11,Online Payment,C8206,45,M,2.8,20,No,391.1
+TXN1425,2024-03-01,109,West,Technology,Product 13,3,213.24,Credit Card,C8170,60,F,4.4,20,No,511.78
+TXN1426,2024-03-02,105,South,Furniture,Product 14,1,296.01,Credit Card,C7207,42,M,4.6,10,No,266.41
+TXN1427,2024-03-03,104,West,Furniture,Product 13,9,427.92,Cash,C3419,52,M,2.1,15,No,3273.59
+TXN1428,2024-03-04,103,South,Office Supplies,Product 1,6,107.37,Online Payment,C7240,64,M,3.8,25,No,483.16
+TXN1429,2024-03-05,101,East,Furniture,Product 8,9,410.09,Credit Card,C2893,56,M,1.4,30,No,2583.57
+TXN1430,2024-03-06,103,West,Technology,Product 12,7,438.35,Online Payment,C6322,24,M,1.1,20,Yes,2454.76
+TXN1431,2024-03-07,109,East,Technology,Product 19,1,117.81,Cash,C8718,55,M,3.2,20,Yes,94.25
+TXN1432,2024-03-08,109,South,Technology,Product 12,1,433.22,Online Payment,C7878,49,F,3.8,25,No,324.92
+TXN1433,2024-03-09,102,Central,Technology,Product 8,6,496.15,Credit Card,C2125,20,F,4.2,30,No,2083.83
+TXN1434,2024-03-10,109,Central,Office Supplies,Product 8,5,377.08,Online Payment,C4117,62,F,2.4,5,No,1791.13
+TXN1435,2024-03-11,100,West,Furniture,Product 13,9,403.15,Credit Card,C5161,56,F,1.0,5,Yes,3446.93
+TXN1436,2024-03-12,107,East,Office Supplies,Product 12,2,497.49,Credit Card,C5042,54,M,2.9,0,No,994.98
+TXN1437,2024-03-13,104,East,Furniture,Product 16,8,322.47,Credit Card,C5433,39,F,1.1,10,No,2321.78
+TXN1438,2024-03-14,103,West,Furniture,Product 1,5,188.55,Cash,C9638,25,M,1.4,15,No,801.34
+TXN1439,2024-03-15,107,Central,Furniture,Product 13,2,426.89,Online Payment,C3658,34,M,2.3,20,No,683.02
+TXN1440,2024-03-16,106,South,Office Supplies,Product 7,6,326.52,Cash,C4483,44,M,2.7,30,No,1371.38
+TXN1441,2024-03-17,101,West,Furniture,Product 5,8,311.54,Online Payment,C3944,50,F,2.1,20,No,1993.86
+TXN1442,2024-03-18,100,South,Office Supplies,Product 8,4,164.14,Cash,C8210,63,M,3.3,0,No,656.56
+TXN1443,2024-03-19,103,Central,Technology,Product 14,2,390.35,Debit Card,C8653,34,F,1.2,30,No,546.49
+TXN1444,2024-03-20,107,East,Technology,Product 13,5,86.75,Credit Card,C9787,59,F,1.6,30,No,303.62
+TXN1445,2024-03-21,101,Central,Furniture,Product 15,2,465.93,Credit Card,C2986,29,F,3.8,20,No,745.49
+TXN1446,2024-03-22,102,West,Office Supplies,Product 17,2,196.62,Cash,C2074,63,F,1.6,10,No,353.92
+TXN1447,2024-03-23,100,East,Technology,Product 15,6,107.5,Debit Card,C5305,44,F,3.6,0,No,645.0
+TXN1448,2024-03-24,100,West,Office Supplies,Product 20,9,249.06,Credit Card,C4007,25,M,1.2,10,No,2017.39
+TXN1449,2024-03-25,102,West,Office Supplies,Product 18,4,69.11,Online Payment,C1969,40,M,2.6,0,No,276.44
+TXN1450,2024-03-26,104,Central,Furniture,Product 18,6,358.08,Cash,C9772,59,F,1.7,20,No,1718.78
+TXN1451,2024-03-27,102,West,Technology,Product 2,7,456.22,Credit Card,C3824,46,M,1.4,0,Yes,3193.54
+TXN1452,2024-03-28,100,Central,Furniture,Product 4,6,426.77,Credit Card,C2211,37,F,3.3,5,No,2432.59
+TXN1453,2024-03-29,100,East,Furniture,Product 1,8,107.32,Cash,C1229,33,M,4.7,30,No,600.99
+TXN1454,2024-03-30,107,Central,Technology,Product 4,4,106.82,Cash,C5284,34,M,1.2,15,No,363.19
+TXN1455,2024-03-31,109,East,Technology,Product 18,1,416.05,Online Payment,C4185,33,M,2.7,20,No,332.84
+TXN1456,2024-04-01,101,Central,Office Supplies,Product 5,7,465.91,Online Payment,C1501,36,M,3.8,25,No,2446.03
+TXN1457,2024-04-02,102,South,Technology,Product 19,3,257.3,Credit Card,C1048,25,M,2.9,15,No,656.12
+TXN1458,2024-04-03,101,South,Office Supplies,Product 15,6,274.54,Credit Card,C4566,55,M,4.2,20,No,1317.79
+TXN1459,2024-04-04,102,West,Office Supplies,Product 8,2,193.22,Cash,C4055,55,M,1.7,15,No,328.47
+TXN1460,2024-04-05,106,Central,Office Supplies,Product 20,9,452.42,Credit Card,C9880,46,M,4.8,5,No,3868.19
+TXN1461,2024-04-06,100,Central,Technology,Product 17,1,340.21,Credit Card,C1386,58,M,2.5,15,No,289.18
+TXN1462,2024-04-07,109,East,Furniture,Product 1,6,179.71,Cash,C1969,53,M,2.4,0,No,1078.26
+TXN1463,2024-04-08,107,West,Office Supplies,Product 12,6,184.45,Credit Card,C6820,43,M,4.5,15,No,940.69
+TXN1464,2024-04-09,109,Central,Furniture,Product 19,5,451.04,Credit Card,C4052,48,M,3.3,20,No,1804.16
+TXN1465,2024-04-10,109,West,Furniture,Product 15,5,56.14,Debit Card,C8397,61,M,3.1,25,No,210.52
+TXN1466,2024-04-11,109,South,Technology,Product 9,1,195.23,Online Payment,C3302,29,F,3.9,25,No,146.42
+TXN1467,2024-04-12,101,Central,Furniture,Product 7,5,299.46,Cash,C3283,34,M,3.3,10,Yes,1347.57
+TXN1468,2024-04-13,102,Central,Furniture,Product 2,2,116.7,Debit Card,C5366,32,M,1.7,30,No,163.38
+TXN1469,2024-04-14,108,West,Technology,Product 9,7,91.44,Online Payment,C1122,26,M,3.7,15,No,544.07
+TXN1470,2024-04-15,106,Central,Office Supplies,Product 10,3,416.87,Online Payment,C7799,56,M,1.5,25,No,937.96
+TXN1471,2024-04-16,103,West,Furniture,Product 2,4,452.48,Online Payment,C4727,59,M,4.2,15,No,1538.43
+TXN1472,2024-04-17,109,Central,Technology,Product 19,3,420.62,Debit Card,C9450,29,M,5.0,30,No,883.3
+TXN1473,2024-04-18,104,East,Furniture,Product 11,3,454.45,Debit Card,C5958,49,F,2.5,25,No,1022.51
+TXN1474,2024-04-19,101,West,Furniture,Product 13,4,298.9,Online Payment,C1524,42,F,2.8,30,No,836.92
+TXN1475,2024-04-20,107,Central,Office Supplies,Product 10,5,415.52,Credit Card,C9399,56,F,1.2,15,No,1765.96
+TXN1476,2024-04-21,103,South,Furniture,Product 14,1,222.82,Credit Card,C1148,35,M,1.1,20,No,178.26
+TXN1477,2024-04-22,108,Central,Technology,Product 18,4,349.82,Debit Card,C9001,32,M,4.7,15,No,1189.39
+TXN1478,2024-04-23,104,South,Furniture,Product 19,8,494.98,Debit Card,C1437,49,M,1.5,30,No,2771.89
+TXN1479,2024-04-24,108,South,Office Supplies,Product 9,7,151.58,Debit Card,C4749,23,F,2.8,20,No,848.85
+TXN1480,2024-04-25,103,East,Office Supplies,Product 7,9,225.45,Online Payment,C9186,61,M,4.3,20,No,1623.24
+TXN1481,2024-04-26,109,West,Technology,Product 3,5,266.02,Credit Card,C5453,60,M,4.6,10,No,1197.09
+TXN1482,2024-04-27,104,Central,Office Supplies,Product 20,4,112.11,Debit Card,C6336,52,F,3.1,25,No,336.33
+TXN1483,2024-04-28,108,East,Furniture,Product 6,8,86.47,Debit Card,C5551,51,F,3.3,0,No,691.76
+TXN1484,2024-04-29,107,Central,Office Supplies,Product 2,9,423.38,Cash,C3823,55,M,3.7,20,No,3048.34
+TXN1485,2024-04-30,102,South,Technology,Product 6,7,489.56,Online Payment,C6728,22,M,4.8,30,No,2398.84
+TXN1486,2024-05-01,100,West,Office Supplies,Product 3,7,232.13,Cash,C9677,35,M,3.4,25,No,1218.68
+TXN1487,2024-05-02,102,Central,Office Supplies,Product 16,5,89.44,Credit Card,C9391,33,M,3.2,5,No,424.84
+TXN1488,2024-05-03,103,Central,Office Supplies,Product 8,4,79.62,Cash,C2982,25,F,1.1,15,No,270.71
+TXN1489,2024-05-04,101,South,Technology,Product 2,1,451.09,Cash,C7996,42,M,1.3,30,No,315.76
+TXN1490,2024-05-05,100,Central,Office Supplies,Product 17,7,258.72,Cash,C3311,49,M,3.3,5,No,1720.49
+TXN1491,2024-05-06,106,Central,Office Supplies,Product 9,1,194.01,Online Payment,C8225,43,F,4.7,30,No,135.81
+TXN1492,2024-05-07,107,South,Furniture,Product 12,1,264.41,Credit Card,C1604,39,M,4.5,15,No,224.75
+TXN1493,2024-05-08,106,East,Technology,Product 3,5,193.24,Cash,C9175,48,M,4.9,10,No,869.58
+TXN1494,2024-05-09,104,South,Office Supplies,Product 11,9,270.07,Online Payment,C6785,60,F,3.1,30,No,1701.44
+TXN1495,2024-05-10,100,East,Technology,Product 1,6,436.8,Credit Card,C5597,27,F,4.2,20,No,2096.64
+TXN1496,2024-05-11,106,West,Office Supplies,Product 13,3,316.54,Debit Card,C8759,29,M,4.4,0,Yes,949.62
+TXN1497,2024-05-12,106,East,Office Supplies,Product 15,3,362.59,Cash,C8532,45,F,3.6,20,No,870.22
+TXN1498,2024-05-13,108,East,Office Supplies,Product 5,7,214.1,Credit Card,C9740,23,F,2.4,15,No,1273.9
+TXN1499,2024-05-14,102,West,Furniture,Product 17,6,382.33,Cash,C1838,37,M,2.9,30,No,1605.79
+TXN1500,2024-05-15,108,East,Furniture,Product 6,9,349.98,Debit Card,C4815,22,F,4.4,0,No,3149.82
+TXN1501,2024-05-16,100,South,Furniture,Product 11,6,103.8,Credit Card,C1847,40,M,2.2,20,No,498.24
+TXN1502,2024-05-17,100,East,Technology,Product 18,5,307.69,Online Payment,C5709,26,M,4.7,0,No,1538.45
+TXN1503,2024-05-18,103,West,Technology,Product 4,7,165.53,Credit Card,C5507,46,M,1.9,15,No,984.9
+TXN1504,2024-05-19,108,South,Furniture,Product 3,1,411.84,Online Payment,C7575,33,M,4.0,10,No,370.66
+TXN1505,2024-05-20,105,West,Technology,Product 13,7,241.67,Credit Card,C5773,63,F,3.5,10,No,1522.52
+TXN1506,2024-05-21,102,West,Office Supplies,Product 9,3,497.61,Online Payment,C5468,39,M,4.0,30,Yes,1044.98
+TXN1507,2024-05-22,100,Central,Office Supplies,Product 6,9,91.63,Debit Card,C6192,25,M,2.7,20,No,659.74
+TXN1508,2024-05-23,103,Central,Office Supplies,Product 12,6,401.16,Debit Card,C4320,37,M,4.7,5,No,2286.61
+TXN1509,2024-05-24,108,West,Furniture,Product 2,9,353.17,Debit Card,C5698,31,M,3.5,15,No,2701.75
+TXN1510,2024-05-25,102,West,Technology,Product 3,5,395.37,Credit Card,C5311,56,F,2.2,20,No,1581.48
+TXN1511,2024-05-26,108,West,Furniture,Product 3,7,188.39,Debit Card,C4673,54,F,3.6,20,No,1054.98
+TXN1512,2024-05-27,106,Central,Technology,Product 12,4,271.42,Cash,C2564,51,F,2.1,10,No,977.11
+TXN1513,2024-05-28,103,Central,Office Supplies,Product 15,7,408.43,Debit Card,C2840,28,M,2.2,30,No,2001.31
+TXN1514,2024-05-29,102,East,Furniture,Product 9,1,154.64,Online Payment,C7058,57,F,2.6,0,No,154.64
+TXN1515,2024-05-30,109,East,Technology,Product 8,7,151.71,Online Payment,C8131,50,F,4.4,15,No,902.67
+TXN1516,2024-05-31,104,West,Technology,Product 11,8,297.97,Online Payment,C1726,48,M,3.0,0,No,2383.76
+TXN1517,2024-06-01,104,South,Office Supplies,Product 16,5,285.6,Credit Card,C7697,61,F,3.7,25,No,1071.0
+TXN1518,2024-06-02,102,South,Furniture,Product 4,2,177.02,Cash,C1282,51,M,2.6,25,No,265.53
+TXN1519,2024-06-03,108,Central,Furniture,Product 1,5,184.13,Debit Card,C2081,24,F,2.1,15,No,782.55
+TXN1520,2024-06-04,103,Central,Furniture,Product 7,6,175.03,Cash,C4885,40,F,4.8,30,No,735.13
+TXN1521,2024-06-05,104,Central,Office Supplies,Product 2,2,397.18,Cash,C3881,63,F,3.4,5,No,754.64
+TXN1522,2024-06-06,103,West,Furniture,Product 5,6,343.36,Online Payment,C3970,24,F,4.7,25,No,1545.12
+TXN1523,2024-06-07,104,South,Office Supplies,Product 7,6,424.59,Online Payment,C7985,42,M,1.8,10,No,2292.79
+TXN1524,2024-06-08,106,East,Office Supplies,Product 4,1,488.96,Online Payment,C1947,20,M,1.6,5,Yes,464.51
+TXN1525,2024-06-09,108,West,Office Supplies,Product 5,1,263.37,Credit Card,C5760,55,F,4.4,20,No,210.7
+TXN1526,2024-06-10,106,East,Technology,Product 1,3,80.01,Cash,C1066,37,M,3.7,25,Yes,180.02
+TXN1527,2024-06-11,104,East,Furniture,Product 1,3,71.64,Cash,C9828,51,F,1.7,10,No,193.43
+TXN1528,2024-06-12,109,West,Furniture,Product 15,4,183.05,Credit Card,C9505,61,F,2.1,20,No,585.76
+TXN1529,2024-06-13,109,East,Office Supplies,Product 20,2,469.65,Credit Card,C1564,61,F,4.2,5,No,892.33
+TXN1530,2024-06-14,106,South,Office Supplies,Product 19,9,285.45,Credit Card,C4670,47,F,2.8,15,No,2183.69
+TXN1531,2024-06-15,109,East,Furniture,Product 10,7,172.3,Cash,C3251,34,F,3.7,20,No,964.88
+TXN1532,2024-06-16,104,South,Office Supplies,Product 18,7,229.63,Cash,C1804,27,F,2.3,0,Yes,1607.41
+TXN1533,2024-06-17,102,South,Furniture,Product 3,6,319.37,Online Payment,C5631,52,M,2.5,15,No,1628.79
+TXN1534,2024-06-18,106,South,Technology,Product 11,3,343.83,Online Payment,C2235,37,M,5.0,15,No,876.77
+TXN1535,2024-06-19,101,Central,Office Supplies,Product 15,6,119.26,Cash,C7720,35,F,2.0,5,No,679.78
+TXN1536,2024-06-20,108,East,Furniture,Product 11,8,489.66,Online Payment,C7906,62,M,3.0,5,No,3721.42
+TXN1537,2024-06-21,109,West,Office Supplies,Product 17,8,295.15,Credit Card,C7016,61,F,4.4,10,No,2125.08
+TXN1538,2024-06-22,109,West,Furniture,Product 17,9,111.06,Debit Card,C4549,44,M,2.0,10,No,899.59
+TXN1539,2024-06-23,100,East,Furniture,Product 6,1,452.14,Online Payment,C8938,53,M,2.7,0,No,452.14
+TXN1540,2024-06-24,105,Central,Office Supplies,Product 5,1,83.59,Cash,C5141,40,M,3.5,15,No,71.05
+TXN1541,2024-06-25,106,Central,Technology,Product 8,3,458.48,Online Payment,C7966,49,F,2.9,30,No,962.81
+TXN1542,2024-06-26,107,South,Furniture,Product 2,3,498.45,Online Payment,C6335,27,M,2.8,0,No,1495.35
+TXN1543,2024-06-27,109,East,Furniture,Product 16,8,365.19,Online Payment,C6077,28,F,2.5,0,No,2921.52
+TXN1544,2024-06-28,108,East,Furniture,Product 20,1,396.7,Debit Card,C6611,55,F,3.3,30,No,277.69
+TXN1545,2024-06-29,101,West,Technology,Product 12,2,201.79,Credit Card,C9089,23,F,3.5,30,No,282.51
+TXN1546,2024-06-30,109,East,Technology,Product 6,2,473.71,Cash,C3892,58,M,3.6,30,No,663.19
+TXN1547,2024-07-01,101,Central,Office Supplies,Product 1,3,288.37,Debit Card,C6577,64,M,1.3,5,Yes,821.85
+TXN1548,2024-07-02,104,East,Technology,Product 4,6,379.57,Cash,C4618,51,M,3.5,0,Yes,2277.42
+TXN1549,2024-07-03,104,West,Office Supplies,Product 17,1,465.85,Cash,C2559,53,F,4.8,0,No,465.85
+TXN1550,2024-07-04,105,South,Office Supplies,Product 13,2,488.83,Cash,C7683,54,F,3.2,20,No,782.13
+TXN1551,2024-07-05,102,West,Technology,Product 18,1,424.94,Debit Card,C2507,34,M,3.9,30,Yes,297.46
+TXN1552,2024-07-06,107,West,Office Supplies,Product 5,5,186.36,Credit Card,C3063,57,F,3.2,30,No,652.26
+TXN1553,2024-07-07,100,South,Technology,Product 3,7,484.95,Cash,C4642,57,M,4.4,10,No,3055.18
+TXN1554,2024-07-08,105,West,Office Supplies,Product 11,8,332.65,Credit Card,C3000,29,M,4.7,10,No,2395.08
+TXN1555,2024-07-09,103,West,Technology,Product 13,1,468.79,Credit Card,C2294,38,M,1.7,15,No,398.47
+TXN1556,2024-07-10,100,East,Technology,Product 4,7,354.25,Online Payment,C5065,57,M,2.7,10,No,2231.78
+TXN1557,2024-07-11,106,East,Office Supplies,Product 14,5,188.26,Debit Card,C9014,36,F,2.6,25,No,705.97
+TXN1558,2024-07-12,108,South,Furniture,Product 11,1,216.51,Debit Card,C2603,20,M,2.6,15,No,184.03
+TXN1559,2024-07-13,103,East,Office Supplies,Product 10,3,297.71,Online Payment,C2322,35,M,1.5,30,No,625.19
+TXN1560,2024-07-14,103,East,Technology,Product 19,7,405.51,Online Payment,C6956,36,M,4.3,20,No,2270.86
+TXN1561,2024-07-15,105,West,Furniture,Product 18,1,193.09,Credit Card,C3441,64,M,1.1,10,No,173.78
+TXN1562,2024-07-16,102,Central,Office Supplies,Product 6,7,310.88,Cash,C2098,23,M,3.1,20,No,1740.93
+TXN1563,2024-07-17,105,East,Office Supplies,Product 15,5,205.53,Debit Card,C6073,33,M,3.6,10,No,924.89
+TXN1564,2024-07-18,106,Central,Office Supplies,Product 10,1,417.1,Cash,C9488,25,M,1.8,10,No,375.39
+TXN1565,2024-07-19,109,East,Furniture,Product 5,1,260.03,Cash,C4787,35,F,4.6,20,No,208.02
+TXN1566,2024-07-20,109,East,Technology,Product 5,1,84.53,Online Payment,C3096,60,F,4.4,0,No,84.53
+TXN1567,2024-07-21,102,South,Office Supplies,Product 10,9,124.72,Cash,C3208,56,F,2.9,0,Yes,1122.48
+TXN1568,2024-07-22,106,South,Office Supplies,Product 5,3,77.5,Credit Card,C6988,29,F,2.6,0,No,232.5
+TXN1569,2024-07-23,102,South,Office Supplies,Product 3,5,274.69,Online Payment,C1175,62,M,1.9,25,No,1030.09
+TXN1570,2024-07-24,101,Central,Office Supplies,Product 6,9,97.85,Cash,C8169,27,F,3.9,0,No,880.65
+TXN1571,2024-07-25,109,West,Office Supplies,Product 4,6,101.36,Online Payment,C7014,24,F,1.5,10,No,547.34
+TXN1572,2024-07-26,103,East,Technology,Product 18,9,473.47,Credit Card,C2667,63,F,3.7,30,No,2982.86
+TXN1573,2024-07-27,107,East,Technology,Product 9,8,442.69,Credit Card,C9867,18,M,4.4,5,No,3364.44
+TXN1574,2024-07-28,108,East,Office Supplies,Product 17,8,253.44,Cash,C2823,53,F,1.9,20,No,1622.02
+TXN1575,2024-07-29,106,Central,Furniture,Product 13,1,493.61,Online Payment,C6147,38,F,4.5,30,No,345.53
+TXN1576,2024-07-30,100,South,Technology,Product 15,9,50.08,Cash,C2356,54,M,1.1,5,No,428.18
+TXN1577,2024-07-31,102,West,Furniture,Product 20,6,326.29,Cash,C4072,41,F,4.7,30,No,1370.42
+TXN1578,2024-08-01,108,Central,Technology,Product 17,9,327.39,Online Payment,C4259,42,M,1.5,25,No,2209.88
+TXN1579,2024-08-02,100,South,Office Supplies,Product 13,3,255.85,Cash,C7199,24,F,3.6,5,No,729.17
+TXN1580,2024-08-03,108,Central,Technology,Product 16,3,228.63,Credit Card,C1546,59,M,2.0,15,No,583.01
+TXN1581,2024-08-04,107,West,Office Supplies,Product 4,6,254.92,Online Payment,C6231,34,F,4.3,0,No,1529.52
+TXN1582,2024-08-05,100,South,Technology,Product 5,9,236.73,Online Payment,C8965,46,F,3.0,25,No,1597.93
+TXN1583,2024-08-06,105,Central,Office Supplies,Product 5,7,378.72,Online Payment,C3083,47,F,1.5,30,No,1855.73
+TXN1584,2024-08-07,104,West,Office Supplies,Product 9,3,110.91,Online Payment,C3040,24,M,3.3,10,No,299.46
+TXN1585,2024-08-08,105,East,Office Supplies,Product 17,3,138.94,Cash,C5534,50,F,2.6,0,No,416.82
+TXN1586,2024-08-09,109,West,Office Supplies,Product 13,2,131.23,Cash,C2752,24,M,3.6,0,No,262.46
+TXN1587,2024-08-10,104,East,Furniture,Product 2,9,168.11,Credit Card,C2849,41,M,4.5,5,No,1437.34
+TXN1588,2024-08-11,105,Central,Office Supplies,Product 13,3,286.37,Debit Card,C3642,28,M,2.6,15,No,730.24
+TXN1589,2024-08-12,104,South,Furniture,Product 19,5,100.04,Debit Card,C2600,26,M,2.2,0,No,500.2
+TXN1590,2024-08-13,104,South,Furniture,Product 3,9,440.68,Credit Card,C5402,29,F,1.1,30,Yes,2776.28
+TXN1591,2024-08-14,103,Central,Office Supplies,Product 10,8,183.81,Debit Card,C4799,52,F,3.3,30,No,1029.34
+TXN1592,2024-08-15,102,South,Furniture,Product 2,2,123.14,Credit Card,C1618,21,F,2.6,20,No,197.02
+TXN1593,2024-08-16,102,South,Technology,Product 13,3,354.03,Cash,C2132,53,M,2.5,20,No,849.67
+TXN1594,2024-08-17,103,East,Office Supplies,Product 19,2,67.14,Online Payment,C6491,45,F,1.7,0,No,134.28
+TXN1595,2024-08-18,108,Central,Furniture,Product 17,8,328.99,Online Payment,C6795,30,M,2.7,5,No,2500.32
+TXN1596,2024-08-19,101,West,Office Supplies,Product 14,6,364.19,Cash,C8633,40,M,4.9,5,No,2075.88
+TXN1597,2024-08-20,108,East,Office Supplies,Product 12,6,146.71,Online Payment,C2487,36,M,2.2,10,Yes,792.23
+TXN1598,2024-08-21,100,Central,Office Supplies,Product 12,9,68.88,Online Payment,C8848,59,F,3.4,25,No,464.94
+TXN1599,2024-08-22,100,East,Furniture,Product 11,8,213.64,Debit Card,C6009,54,F,4.1,25,No,1281.84
+TXN1600,2024-08-23,104,West,Technology,Product 7,4,94.37,Cash,C3113,56,M,4.0,25,No,283.11
+TXN1601,2024-08-24,105,West,Technology,Product 4,4,102.42,Debit Card,C2044,41,F,2.3,15,No,348.23
+TXN1602,2024-08-25,105,Central,Furniture,Product 19,9,164.42,Debit Card,C3431,33,F,3.4,5,No,1405.79
+TXN1603,2024-08-26,102,West,Office Supplies,Product 1,1,182.96,Online Payment,C8979,50,M,4.5,10,No,164.66
+TXN1604,2024-08-27,106,East,Furniture,Product 3,2,288.49,Online Payment,C2582,29,M,1.1,20,No,461.58
+TXN1605,2024-08-28,108,West,Furniture,Product 13,2,355.28,Cash,C2308,51,F,2.7,30,No,497.39
+TXN1606,2024-08-29,109,East,Furniture,Product 15,6,316.75,Online Payment,C5917,24,M,1.9,25,No,1425.38
+TXN1607,2024-08-30,107,East,Office Supplies,Product 2,4,116.76,Online Payment,C9793,28,M,2.6,20,No,373.63
+TXN1608,2024-08-31,105,West,Furniture,Product 11,3,127.44,Cash,C2620,48,F,2.7,20,No,305.86
+TXN1609,2024-09-01,107,Central,Office Supplies,Product 4,3,445.45,Online Payment,C8503,46,F,4.0,0,No,1336.35
+TXN1610,2024-09-02,104,South,Furniture,Product 19,3,301.26,Debit Card,C5766,30,M,1.4,15,No,768.21
+TXN1611,2024-09-03,107,West,Technology,Product 17,6,441.47,Cash,C6362,48,F,3.1,10,No,2383.94
+TXN1612,2024-09-04,109,East,Furniture,Product 3,8,217.2,Online Payment,C6192,19,M,3.3,15,No,1476.96
+TXN1613,2024-09-05,103,East,Furniture,Product 18,7,326.48,Credit Card,C7622,56,M,3.0,0,Yes,2285.36
+TXN1614,2024-09-06,109,West,Technology,Product 8,4,285.65,Cash,C7093,32,F,3.9,10,No,1028.34
+TXN1615,2024-09-07,107,Central,Office Supplies,Product 19,4,193.61,Cash,C7704,28,M,2.5,10,No,697.0
+TXN1616,2024-09-08,109,Central,Office Supplies,Product 5,2,261.46,Credit Card,C1100,51,M,4.8,5,No,496.77
+TXN1617,2024-09-09,101,East,Furniture,Product 7,1,276.12,Online Payment,C7657,56,M,2.9,15,No,234.7
+TXN1618,2024-09-10,104,East,Technology,Product 8,9,140.35,Online Payment,C6875,21,F,3.3,15,No,1073.68
+TXN1619,2024-09-11,108,Central,Office Supplies,Product 5,2,191.75,Cash,C5271,28,F,4.3,5,No,364.32
+TXN1620,2024-09-12,103,South,Furniture,Product 17,8,406.13,Cash,C1237,46,F,2.1,20,No,2599.23
+TXN1621,2024-09-13,105,West,Technology,Product 5,9,462.1,Online Payment,C8226,19,M,1.3,0,No,4158.9
+TXN1622,2024-09-14,100,East,Office Supplies,Product 4,4,211.91,Online Payment,C9032,33,M,3.8,15,No,720.49
+TXN1623,2024-09-15,108,East,Office Supplies,Product 19,8,188.14,Debit Card,C6218,56,F,2.9,5,No,1429.86
+TXN1624,2024-09-16,100,Central,Technology,Product 2,9,137.84,Cash,C5025,30,F,4.6,30,No,868.39
+TXN1625,2024-09-17,104,West,Technology,Product 11,5,355.32,Cash,C7073,54,F,4.9,10,No,1598.94
+TXN1626,2024-09-18,103,Central,Technology,Product 13,7,195.39,Credit Card,C3542,34,M,2.6,25,No,1025.8
+TXN1627,2024-09-19,102,West,Technology,Product 15,4,494.49,Debit Card,C2537,38,F,2.7,30,No,1384.57
+TXN1628,2024-09-20,105,West,Furniture,Product 12,1,196.56,Online Payment,C1754,61,M,2.6,5,No,186.73
+TXN1629,2024-09-21,101,West,Technology,Product 11,3,227.36,Debit Card,C8396,36,F,2.3,25,No,511.56
+TXN1630,2024-09-22,102,East,Office Supplies,Product 7,5,321.5,Online Payment,C8823,24,M,4.1,20,No,1286.0
+TXN1631,2024-09-23,104,South,Office Supplies,Product 5,3,410.76,Online Payment,C6507,55,M,4.0,0,No,1232.28
+TXN1632,2024-09-24,108,Central,Furniture,Product 17,7,261.28,Debit Card,C5235,25,F,2.9,25,No,1371.72
+TXN1633,2024-09-25,101,South,Office Supplies,Product 20,9,240.2,Cash,C1540,30,M,1.2,20,No,1729.44
+TXN1634,2024-09-26,109,Central,Office Supplies,Product 9,6,498.04,Online Payment,C6510,54,F,2.2,25,No,2241.18
+TXN1635,2024-09-27,107,West,Technology,Product 14,1,54.72,Debit Card,C9461,19,M,2.2,10,No,49.25
+TXN1636,2024-09-28,101,East,Office Supplies,Product 12,7,452.78,Credit Card,C8926,58,M,4.2,10,No,2852.51
+TXN1637,2024-09-29,104,South,Furniture,Product 6,3,117.11,Debit Card,C6131,28,F,1.4,10,No,316.2
+TXN1638,2024-09-30,106,East,Technology,Product 17,5,403.67,Credit Card,C9697,41,M,4.2,10,Yes,1816.52
+TXN1639,2024-10-01,107,Central,Technology,Product 19,4,328.07,Online Payment,C2129,23,F,3.7,5,No,1246.67
+TXN1640,2024-10-02,100,East,Furniture,Product 19,5,203.83,Debit Card,C4145,43,F,3.9,10,Yes,917.24
+TXN1641,2024-10-03,105,East,Technology,Product 16,5,443.24,Debit Card,C9553,24,F,2.7,30,No,1551.34
+TXN1642,2024-10-04,100,South,Technology,Product 12,6,55.81,Credit Card,C4720,56,M,3.7,10,No,301.37
+TXN1643,2024-10-05,101,West,Furniture,Product 12,6,152.01,Debit Card,C5067,36,M,3.4,30,Yes,638.44
+TXN1644,2024-10-06,100,East,Technology,Product 20,8,305.1,Debit Card,C5195,23,M,4.1,5,No,2318.76
+TXN1645,2024-10-07,104,West,Furniture,Product 6,8,208.19,Online Payment,C8281,60,F,2.8,10,No,1498.97
+TXN1646,2024-10-08,109,Central,Furniture,Product 4,9,324.67,Debit Card,C3509,46,F,2.9,20,No,2337.62
+TXN1647,2024-10-09,108,East,Office Supplies,Product 6,8,60.85,Cash,C6016,60,M,3.6,20,No,389.44
+TXN1648,2024-10-10,105,South,Office Supplies,Product 11,2,102.41,Credit Card,C7533,56,M,1.4,15,No,174.1
+TXN1649,2024-10-11,100,Central,Technology,Product 1,1,107.19,Debit Card,C5727,19,F,2.7,20,No,85.75
+TXN1650,2024-10-12,100,Central,Technology,Product 15,2,135.18,Credit Card,C1681,36,M,4.9,0,No,270.36
+TXN1651,2024-10-13,101,South,Furniture,Product 11,2,256.7,Credit Card,C4932,21,F,1.2,0,No,513.4
+TXN1652,2024-10-14,108,East,Technology,Product 19,3,388.46,Credit Card,C6560,23,M,2.3,0,No,1165.38
+TXN1653,2024-10-15,102,East,Furniture,Product 18,7,457.49,Debit Card,C5016,54,F,2.3,5,No,3042.31
+TXN1654,2024-10-16,100,Central,Furniture,Product 17,2,425.92,Debit Card,C8339,45,M,3.5,20,No,681.47
+TXN1655,2024-10-17,104,East,Technology,Product 19,1,138.6,Credit Card,C1719,47,M,1.4,30,No,97.02
+TXN1656,2024-10-18,106,West,Furniture,Product 14,6,248.52,Cash,C1074,24,F,3.5,0,No,1491.12
+TXN1657,2024-10-19,105,South,Office Supplies,Product 18,9,139.74,Credit Card,C5157,26,F,1.4,15,No,1069.01
+TXN1658,2024-10-20,100,West,Technology,Product 19,3,169.01,Cash,C9511,42,F,1.4,5,Yes,481.68
+TXN1659,2024-10-21,104,East,Office Supplies,Product 15,6,276.6,Credit Card,C3149,50,M,3.9,15,No,1410.66
+TXN1660,2024-10-22,104,Central,Technology,Product 15,3,80.65,Online Payment,C7713,18,F,2.3,20,No,193.56
+TXN1661,2024-10-23,105,South,Furniture,Product 4,1,148.18,Credit Card,C5207,23,F,4.9,10,No,133.36
+TXN1662,2024-10-24,102,East,Technology,Product 7,5,470.92,Credit Card,C8141,35,M,1.1,15,No,2001.41
+TXN1663,2024-10-25,104,East,Office Supplies,Product 13,4,259.75,Debit Card,C9652,27,F,2.8,10,No,935.1
+TXN1664,2024-10-26,106,Central,Furniture,Product 3,7,250.42,Cash,C4936,45,F,1.5,5,Yes,1665.29
+TXN1665,2024-10-27,104,Central,Technology,Product 16,6,56.56,Online Payment,C2075,28,F,2.4,15,No,288.46
+TXN1666,2024-10-28,104,West,Technology,Product 9,7,161.33,Cash,C4876,50,M,5.0,15,No,959.91
+TXN1667,2024-10-29,104,South,Technology,Product 8,5,439.83,Online Payment,C5615,18,M,4.6,25,No,1649.36
+TXN1668,2024-10-30,109,South,Office Supplies,Product 20,4,124.08,Credit Card,C8265,30,M,1.2,5,No,471.5
+TXN1669,2024-10-31,109,Central,Office Supplies,Product 13,7,236.81,Debit Card,C7379,54,F,3.3,5,No,1574.79
+TXN1670,2024-11-01,102,West,Technology,Product 17,7,56.45,Debit Card,C5652,37,M,3.6,0,No,395.15
+TXN1671,2024-11-02,100,South,Furniture,Product 17,6,265.25,Cash,C7792,18,F,1.8,20,No,1273.2
+TXN1672,2024-11-03,104,Central,Furniture,Product 17,8,59.46,Debit Card,C8456,20,F,1.6,15,No,404.33
+TXN1673,2024-11-04,108,East,Office Supplies,Product 1,4,418.82,Cash,C5674,35,F,4.6,15,No,1423.99
+TXN1674,2024-11-05,100,South,Furniture,Product 8,5,421.18,Cash,C1541,58,M,4.9,30,No,1474.13
+TXN1675,2024-11-06,102,West,Office Supplies,Product 19,4,404.48,Online Payment,C3161,31,M,5.0,5,No,1537.02
+TXN1676,2024-11-07,103,West,Technology,Product 6,1,177.51,Cash,C3251,48,F,4.2,5,Yes,168.63
+TXN1677,2024-11-08,100,West,Office Supplies,Product 3,8,426.76,Online Payment,C5569,44,F,3.7,20,No,2731.26
+TXN1678,2024-11-09,100,East,Office Supplies,Product 5,1,294.35,Debit Card,C3744,34,M,2.4,5,No,279.63
+TXN1679,2024-11-10,107,South,Technology,Product 13,5,218.21,Cash,C7041,63,M,1.7,10,Yes,981.94
+TXN1680,2024-11-11,101,South,Furniture,Product 15,6,331.4,Cash,C5675,46,M,1.3,10,No,1789.56
+TXN1681,2024-11-12,107,East,Office Supplies,Product 14,6,55.55,Credit Card,C2560,53,F,3.8,25,No,249.97
+TXN1682,2024-11-13,106,South,Office Supplies,Product 16,5,114.33,Cash,C2164,54,M,4.1,10,Yes,514.48
+TXN1683,2024-11-14,109,East,Technology,Product 18,3,384.03,Cash,C6419,43,M,4.3,10,No,1036.88
+TXN1684,2024-11-15,109,East,Furniture,Product 11,5,159.87,Credit Card,C3722,34,M,4.7,20,No,639.48
+TXN1685,2024-11-16,101,East,Office Supplies,Product 3,8,319.1,Credit Card,C1470,39,F,4.5,15,No,2169.88
+TXN1686,2024-11-17,105,West,Technology,Product 10,2,223.3,Debit Card,C2468,42,M,5.0,10,No,401.94
+TXN1687,2024-11-18,105,South,Office Supplies,Product 10,6,434.66,Cash,C8925,19,F,2.0,25,No,1955.97
+TXN1688,2024-11-19,102,East,Technology,Product 16,9,478.59,Debit Card,C1808,39,F,4.1,5,No,4091.94
+TXN1689,2024-11-20,101,South,Furniture,Product 12,8,447.6,Debit Card,C9363,22,F,3.3,10,No,3222.72
+TXN1690,2024-11-21,100,West,Furniture,Product 2,8,171.78,Credit Card,C7719,21,M,2.0,25,Yes,1030.68
+TXN1691,2024-11-22,105,East,Furniture,Product 9,8,137.37,Online Payment,C6073,53,M,4.9,20,No,879.17
+TXN1692,2024-11-23,104,Central,Furniture,Product 3,7,263.5,Debit Card,C9012,23,M,4.6,30,No,1291.15
+TXN1693,2024-11-24,108,West,Office Supplies,Product 15,8,53.3,Online Payment,C2645,38,F,1.5,30,No,298.48
+TXN1694,2024-11-25,100,Central,Office Supplies,Product 3,6,61.61,Cash,C9249,30,M,1.1,30,No,258.76
+TXN1695,2024-11-26,106,South,Furniture,Product 19,2,298.98,Credit Card,C2129,54,F,3.8,5,No,568.06
+TXN1696,2024-11-27,104,South,Furniture,Product 18,2,284.2,Cash,C2353,42,M,3.4,25,No,426.3
+TXN1697,2024-11-28,104,West,Furniture,Product 8,8,497.56,Cash,C1767,43,M,4.7,10,No,3582.43
+TXN1698,2024-11-29,101,South,Office Supplies,Product 17,1,140.83,Credit Card,C4895,56,M,1.9,15,No,119.71
+TXN1699,2024-11-30,102,Central,Furniture,Product 8,6,166.15,Cash,C9874,37,M,1.3,5,Yes,947.06
+TXN1700,2024-12-01,106,East,Furniture,Product 7,6,101.09,Credit Card,C4454,50,F,2.0,5,No,576.21
+TXN1701,2024-12-02,105,East,Furniture,Product 7,4,462.89,Online Payment,C8329,31,F,1.1,30,No,1296.09
+TXN1702,2024-12-03,101,East,Technology,Product 3,3,400.02,Cash,C2790,53,F,1.1,15,No,1020.05
+TXN1703,2024-12-04,105,West,Furniture,Product 1,3,420.05,Credit Card,C1885,34,F,4.7,30,No,882.1
+TXN1704,2024-12-05,101,South,Technology,Product 4,1,456.24,Debit Card,C8734,38,M,2.4,5,No,433.43
+TXN1705,2024-12-06,101,Central,Technology,Product 5,3,286.2,Cash,C4906,63,F,2.6,10,No,772.74
+TXN1706,2024-12-07,101,South,Furniture,Product 1,4,253.04,Online Payment,C5492,33,F,1.1,30,No,708.51
+TXN1707,2024-12-08,102,South,Technology,Product 15,5,198.68,Credit Card,C3073,63,F,2.1,30,No,695.38
+TXN1708,2024-12-09,101,South,Furniture,Product 5,3,315.15,Cash,C1312,33,M,4.2,30,No,661.82
+TXN1709,2024-12-10,103,East,Office Supplies,Product 13,6,254.43,Cash,C7269,37,F,3.5,5,No,1450.25
+TXN1710,2024-12-11,108,Central,Office Supplies,Product 8,5,253.2,Cash,C6317,46,F,4.0,10,No,1139.4
+TXN1711,2024-12-12,105,Central,Office Supplies,Product 8,3,471.62,Online Payment,C1810,45,M,2.8,15,No,1202.63
+TXN1712,2024-12-13,100,South,Office Supplies,Product 5,6,492.81,Credit Card,C7841,25,M,2.2,0,No,2956.86
+TXN1713,2024-12-14,107,East,Technology,Product 9,6,408.42,Debit Card,C3032,41,F,2.9,15,Yes,2082.94
+TXN1714,2024-12-15,106,East,Furniture,Product 1,8,390.54,Debit Card,C8129,20,F,2.3,10,No,2811.89
+TXN1715,2024-12-16,109,Central,Furniture,Product 4,2,356.25,Debit Card,C3705,42,M,4.4,20,No,570.0
+TXN1716,2024-12-17,102,East,Furniture,Product 3,1,124.73,Credit Card,C9788,36,F,2.2,30,No,87.31
+TXN1717,2024-12-18,100,East,Office Supplies,Product 2,4,76.6,Debit Card,C3147,50,M,3.6,15,No,260.44
+TXN1718,2024-12-19,104,East,Office Supplies,Product 8,7,360.83,Online Payment,C1615,19,F,1.5,20,No,2020.65
+TXN1719,2024-12-20,103,West,Furniture,Product 9,3,377.95,Credit Card,C1947,32,F,3.7,20,No,907.08
+TXN1720,2024-12-21,109,South,Office Supplies,Product 2,3,71.14,Cash,C6677,39,F,4.7,10,No,192.08
+TXN1721,2024-12-22,107,Central,Furniture,Product 14,5,467.62,Online Payment,C5651,27,F,3.4,10,No,2104.29
+TXN1722,2024-12-23,100,Central,Furniture,Product 14,5,91.01,Cash,C8866,35,F,3.2,30,No,318.53
+TXN1723,2024-12-24,109,West,Furniture,Product 4,3,178.66,Debit Card,C3013,39,M,4.8,0,No,535.98
+TXN1724,2024-12-25,100,South,Furniture,Product 6,9,352.58,Online Payment,C4697,63,M,3.5,25,Yes,2379.92
+TXN1725,2024-12-26,103,Central,Furniture,Product 11,4,126.44,Credit Card,C1490,44,F,2.0,5,Yes,480.47
+TXN1726,2024-12-27,107,East,Furniture,Product 3,3,74.94,Online Payment,C5350,30,F,2.2,15,No,191.1
+TXN1727,2024-12-28,104,Central,Furniture,Product 8,2,199.02,Cash,C3428,50,F,3.8,10,No,358.24
+TXN1728,2024-12-29,101,East,Office Supplies,Product 3,9,394.69,Credit Card,C5987,22,M,3.9,15,No,3019.38
+TXN1729,2024-12-30,105,West,Furniture,Product 14,4,236.16,Online Payment,C9733,43,M,2.2,25,No,708.48
+TXN1730,2024-12-31,104,East,Furniture,Product 13,3,343.84,Online Payment,C5920,30,M,2.4,25,Yes,773.64
+TXN1731,2025-01-01,101,Central,Office Supplies,Product 13,7,310.83,Online Payment,C3926,44,M,5.0,30,No,1523.07
+TXN1732,2025-01-02,102,Central,Office Supplies,Product 2,8,60.0,Online Payment,C8282,31,M,1.4,20,No,384.0
+TXN1733,2025-01-03,108,Central,Office Supplies,Product 13,2,494.84,Credit Card,C5376,41,M,2.6,30,No,692.78
+TXN1734,2025-01-04,106,West,Furniture,Product 19,7,68.64,Cash,C5868,20,M,1.2,5,No,456.46
+TXN1735,2025-01-05,106,West,Technology,Product 6,5,485.51,Online Payment,C7986,64,M,4.3,0,No,2427.55
+TXN1736,2025-01-06,105,South,Technology,Product 16,5,297.44,Credit Card,C7862,47,F,1.4,15,No,1264.12
+TXN1737,2025-01-07,107,Central,Office Supplies,Product 2,3,483.42,Cash,C5423,52,M,3.7,5,No,1377.75
+TXN1738,2025-01-08,103,East,Technology,Product 8,5,101.64,Online Payment,C7870,31,M,1.2,0,No,508.2
+TXN1739,2025-01-09,107,West,Office Supplies,Product 17,2,270.68,Cash,C9159,29,M,3.7,15,No,460.16
+TXN1740,2025-01-10,103,Central,Furniture,Product 2,4,126.28,Cash,C3073,45,M,4.4,5,No,479.86
+TXN1741,2025-01-11,107,Central,Technology,Product 10,6,72.94,Credit Card,C7170,61,F,2.6,10,No,393.88
+TXN1742,2025-01-12,108,West,Furniture,Product 16,1,327.89,Cash,C1701,46,M,3.1,15,No,278.71
+TXN1743,2025-01-13,102,South,Technology,Product 6,4,143.5,Credit Card,C9113,60,F,2.6,5,No,545.3
+TXN1744,2025-01-14,102,West,Furniture,Product 2,6,314.46,Online Payment,C7825,34,F,2.2,25,No,1415.07
+TXN1745,2025-01-15,101,West,Technology,Product 2,9,100.56,Cash,C8867,57,F,4.2,0,No,905.04
+TXN1746,2025-01-16,109,East,Furniture,Product 13,2,199.39,Cash,C5264,38,M,2.1,5,No,378.84
+TXN1747,2025-01-17,102,East,Furniture,Product 15,7,401.73,Debit Card,C8968,40,M,3.9,10,No,2530.9
+TXN1748,2025-01-18,102,South,Technology,Product 2,6,246.67,Online Payment,C9146,37,M,1.8,30,No,1036.01
+TXN1749,2025-01-19,104,Central,Furniture,Product 7,2,332.49,Online Payment,C8776,28,F,2.0,15,No,565.23
+TXN1750,2025-01-20,104,West,Furniture,Product 3,8,341.36,Debit Card,C9558,51,F,2.3,15,No,2321.25
+TXN1751,2025-01-21,101,South,Furniture,Product 8,7,429.69,Debit Card,C9719,27,F,3.4,15,No,2556.66
+TXN1752,2025-01-22,109,East,Technology,Product 14,5,196.22,Credit Card,C5886,27,F,2.8,10,Yes,882.99
+TXN1753,2025-01-23,105,West,Technology,Product 7,5,359.28,Credit Card,C4935,60,M,4.0,0,No,1796.4
+TXN1754,2025-01-24,104,Central,Furniture,Product 7,7,482.73,Cash,C5619,23,M,1.9,15,No,2872.24
+TXN1755,2025-01-25,105,East,Furniture,Product 1,9,378.61,Cash,C6191,53,M,1.0,0,Yes,3407.49
+TXN1756,2025-01-26,100,East,Technology,Product 17,9,270.44,Cash,C7875,41,F,4.1,5,No,2312.26
+TXN1757,2025-01-27,104,East,Technology,Product 9,9,333.82,Cash,C8856,29,F,4.3,25,No,2253.28
+TXN1758,2025-01-28,108,South,Furniture,Product 13,6,382.86,Credit Card,C6401,60,M,1.2,25,No,1722.87
+TXN1759,2025-01-29,109,Central,Furniture,Product 19,6,325.52,Online Payment,C4022,40,M,3.4,0,No,1953.12
+TXN1760,2025-01-30,101,West,Furniture,Product 19,3,57.5,Cash,C6738,44,F,2.5,0,No,172.5
+TXN1761,2025-01-31,100,South,Office Supplies,Product 17,1,137.65,Online Payment,C6984,62,M,4.2,25,No,103.24
+TXN1762,2025-02-01,109,South,Technology,Product 10,7,414.71,Cash,C2770,54,M,4.5,15,No,2467.52
+TXN1763,2025-02-02,108,South,Office Supplies,Product 10,4,172.69,Debit Card,C9989,23,F,4.4,20,No,552.61
+TXN1764,2025-02-03,109,East,Technology,Product 4,1,379.2,Cash,C4215,18,F,4.1,20,No,303.36
+TXN1765,2025-02-04,108,Central,Technology,Product 8,8,217.45,Cash,C7694,23,F,2.1,10,No,1565.64
+TXN1766,2025-02-05,108,South,Technology,Product 20,6,284.85,Cash,C3976,39,M,4.2,30,No,1196.37
+TXN1767,2025-02-06,105,West,Technology,Product 20,6,80.59,Credit Card,C4737,58,F,3.1,25,No,362.66
+TXN1768,2025-02-07,107,Central,Technology,Product 18,2,131.55,Debit Card,C1752,41,M,1.2,25,No,197.32
+TXN1769,2025-02-08,100,West,Technology,Product 14,1,480.74,Cash,C2392,42,M,2.8,10,No,432.67
+TXN1770,2025-02-09,109,Central,Technology,Product 18,2,450.56,Cash,C7789,32,F,4.8,20,No,720.9
+TXN1771,2025-02-10,103,West,Office Supplies,Product 14,4,343.52,Online Payment,C1677,43,M,4.6,5,No,1305.38
+TXN1772,2025-02-11,100,East,Furniture,Product 20,2,256.84,Debit Card,C1105,25,F,1.4,15,No,436.63
+TXN1773,2025-02-12,107,South,Furniture,Product 15,1,354.09,Cash,C5753,41,F,4.0,15,Yes,300.98
+TXN1774,2025-02-13,100,West,Office Supplies,Product 4,7,328.37,Online Payment,C2946,55,M,4.2,5,No,2183.66
+TXN1775,2025-02-14,102,Central,Office Supplies,Product 13,8,305.85,Online Payment,C6544,23,M,2.1,5,No,2324.46
+TXN1776,2025-02-15,103,South,Office Supplies,Product 8,6,76.63,Credit Card,C2095,52,F,2.9,20,No,367.82
+TXN1777,2025-02-16,107,South,Office Supplies,Product 18,4,334.76,Online Payment,C7985,59,F,3.8,10,No,1205.14
+TXN1778,2025-02-17,105,Central,Technology,Product 12,6,396.01,Cash,C2782,18,F,2.8,5,No,2257.26
+TXN1779,2025-02-18,109,West,Furniture,Product 14,3,497.34,Credit Card,C5541,63,F,1.5,10,No,1342.82
+TXN1780,2025-02-19,106,East,Technology,Product 2,8,54.99,Credit Card,C4257,53,F,3.8,30,Yes,307.94
+TXN1781,2025-02-20,107,East,Furniture,Product 18,2,378.58,Cash,C7213,29,F,4.6,0,No,757.16
+TXN1782,2025-02-21,101,West,Furniture,Product 2,5,307.31,Debit Card,C5869,55,M,3.6,15,No,1306.07
+TXN1783,2025-02-22,109,South,Office Supplies,Product 11,1,245.32,Online Payment,C2561,28,M,4.1,20,No,196.26
+TXN1784,2025-02-23,107,South,Technology,Product 9,6,107.41,Credit Card,C5006,29,M,2.4,15,No,547.79
+TXN1785,2025-02-24,102,South,Office Supplies,Product 12,2,234.09,Debit Card,C4981,59,M,1.7,20,No,374.54
+TXN1786,2025-02-25,106,South,Technology,Product 17,4,209.47,Cash,C6682,56,F,3.6,0,No,837.88
+TXN1787,2025-02-26,102,West,Furniture,Product 15,6,186.27,Online Payment,C6782,24,M,2.3,15,No,949.98
+TXN1788,2025-02-27,106,South,Office Supplies,Product 17,8,378.9,Online Payment,C1943,28,M,4.4,0,No,3031.2
+TXN1789,2025-02-28,101,Central,Office Supplies,Product 18,8,365.33,Credit Card,C5550,53,F,1.5,20,Yes,2338.11
+TXN1790,2025-03-01,109,South,Furniture,Product 6,6,315.06,Online Payment,C1600,48,M,2.7,5,No,1795.84
+TXN1791,2025-03-02,105,East,Furniture,Product 17,4,472.4,Online Payment,C7376,50,F,2.6,30,Yes,1322.72
+TXN1792,2025-03-03,102,South,Furniture,Product 18,8,207.43,Online Payment,C2524,30,F,4.8,15,No,1410.52
+TXN1793,2025-03-04,102,West,Office Supplies,Product 8,8,159.71,Online Payment,C4766,35,F,1.6,0,No,1277.68
+TXN1794,2025-03-05,108,East,Technology,Product 9,1,345.16,Cash,C1250,58,F,1.0,25,No,258.87
+TXN1795,2025-03-06,106,West,Office Supplies,Product 6,4,139.47,Debit Card,C1078,41,F,2.0,15,No,474.2
+TXN1796,2025-03-07,104,West,Technology,Product 5,4,191.75,Cash,C4123,26,M,4.3,15,No,651.95
+TXN1797,2025-03-08,109,East,Office Supplies,Product 12,7,151.07,Cash,C8064,48,M,1.8,15,No,898.87
+TXN1798,2025-03-09,106,West,Office Supplies,Product 11,7,81.12,Credit Card,C9417,58,M,2.0,10,No,511.06
+TXN1799,2025-03-10,108,West,Furniture,Product 1,8,422.37,Online Payment,C2209,27,F,1.5,0,No,3378.96
+TXN1800,2025-03-11,100,South,Technology,Product 11,5,164.54,Cash,C6153,19,M,3.9,0,No,822.7
+TXN1801,2025-03-12,106,Central,Office Supplies,Product 19,7,262.86,Online Payment,C5898,55,M,1.3,15,No,1564.02
+TXN1802,2025-03-13,105,West,Office Supplies,Product 9,8,69.49,Cash,C3178,32,M,2.3,5,No,528.12
+TXN1803,2025-03-14,109,West,Furniture,Product 2,9,364.7,Cash,C8610,20,M,2.1,15,No,2789.95
+TXN1804,2025-03-15,108,West,Furniture,Product 12,3,198.75,Credit Card,C9895,60,F,3.2,10,No,536.62
+TXN1805,2025-03-16,100,South,Technology,Product 4,3,385.13,Debit Card,C3544,48,M,3.9,20,No,924.31
+TXN1806,2025-03-17,103,Central,Office Supplies,Product 4,4,235.58,Debit Card,C6522,23,F,3.1,10,No,848.09
+TXN1807,2025-03-18,108,East,Technology,Product 18,5,138.09,Cash,C3370,20,F,4.7,5,No,655.93
+TXN1808,2025-03-19,103,South,Office Supplies,Product 15,1,280.93,Credit Card,C4281,28,M,4.8,15,No,238.79
+TXN1809,2025-03-20,109,South,Technology,Product 19,7,108.73,Online Payment,C5710,32,F,2.4,0,No,761.11
+TXN1810,2025-03-21,102,Central,Furniture,Product 13,9,248.24,Online Payment,C1328,62,F,4.1,30,No,1563.91
+TXN1811,2025-03-22,108,Central,Office Supplies,Product 19,8,192.79,Cash,C6579,45,F,4.0,25,No,1156.74
+TXN1812,2025-03-23,101,South,Technology,Product 17,5,460.38,Debit Card,C5228,27,F,4.6,15,No,1956.62
+TXN1813,2025-03-24,103,East,Furniture,Product 6,4,77.42,Credit Card,C7794,55,F,2.8,5,No,294.2
+TXN1814,2025-03-25,105,South,Furniture,Product 16,7,362.31,Debit Card,C1120,64,F,3.1,0,No,2536.17
+TXN1815,2025-03-26,101,Central,Technology,Product 12,5,132.24,Online Payment,C7749,24,F,2.7,10,Yes,595.08
+TXN1816,2025-03-27,107,East,Office Supplies,Product 19,7,193.57,Debit Card,C1964,32,M,4.4,20,No,1083.99
+TXN1817,2025-03-28,107,Central,Office Supplies,Product 5,1,236.98,Online Payment,C5224,35,M,1.9,20,No,189.58
+TXN1818,2025-03-29,100,East,Furniture,Product 17,1,458.61,Credit Card,C4675,35,F,2.0,30,Yes,321.03
+TXN1819,2025-03-30,102,West,Office Supplies,Product 1,3,159.16,Credit Card,C6694,58,F,2.5,15,No,405.86
+TXN1820,2025-03-31,109,Central,Office Supplies,Product 10,2,91.09,Cash,C3076,41,M,1.9,10,No,163.96
+TXN1821,2025-04-01,108,Central,Office Supplies,Product 15,2,193.41,Cash,C7865,19,M,3.2,30,No,270.77
+TXN1822,2025-04-02,104,South,Furniture,Product 11,7,97.1,Debit Card,C6643,57,M,1.5,25,No,509.78
+TXN1823,2025-04-03,105,Central,Technology,Product 13,2,107.87,Credit Card,C9524,37,M,2.3,25,No,161.8
+TXN1824,2025-04-04,103,Central,Office Supplies,Product 5,4,308.23,Credit Card,C6249,51,F,4.7,30,No,863.04
+TXN1825,2025-04-05,109,West,Furniture,Product 1,2,77.41,Cash,C2316,60,F,2.6,5,No,147.08
+TXN1826,2025-04-06,101,Central,Furniture,Product 12,6,63.92,Online Payment,C2196,43,M,4.0,20,No,306.82
+TXN1827,2025-04-07,107,West,Technology,Product 11,8,371.49,Debit Card,C4170,24,M,1.5,10,No,2674.73
+TXN1828,2025-04-08,105,West,Office Supplies,Product 17,4,212.74,Debit Card,C1355,55,M,2.0,15,No,723.32
+TXN1829,2025-04-09,104,West,Office Supplies,Product 4,5,106.42,Cash,C1028,47,M,4.2,0,Yes,532.1
+TXN1830,2025-04-10,108,West,Technology,Product 15,4,164.13,Credit Card,C2013,59,F,4.1,15,No,558.04
+TXN1831,2025-04-11,100,East,Technology,Product 9,3,338.94,Cash,C3024,22,M,2.5,15,No,864.3
+TXN1832,2025-04-12,104,South,Furniture,Product 20,5,173.99,Cash,C9490,28,M,4.8,10,No,782.96
+TXN1833,2025-04-13,105,East,Furniture,Product 19,9,272.53,Cash,C6839,18,M,4.6,20,Yes,1962.22
+TXN1834,2025-04-14,104,Central,Technology,Product 19,8,104.76,Cash,C6791,51,F,4.8,10,No,754.27
+TXN1835,2025-04-15,105,East,Office Supplies,Product 12,8,314.64,Online Payment,C1754,18,F,2.7,0,No,2517.12
+TXN1836,2025-04-16,105,East,Furniture,Product 5,8,192.23,Online Payment,C9961,36,F,1.8,30,No,1076.49
+TXN1837,2025-04-17,106,Central,Furniture,Product 10,8,332.14,Credit Card,C4735,19,M,3.5,10,No,2391.41
+TXN1838,2025-04-18,103,Central,Office Supplies,Product 17,7,413.78,Cash,C2238,38,M,3.7,5,No,2751.64
+TXN1839,2025-04-19,107,Central,Furniture,Product 5,8,325.24,Online Payment,C2906,37,M,1.5,15,No,2211.63
+TXN1840,2025-04-20,106,East,Office Supplies,Product 16,8,183.09,Credit Card,C8399,40,F,4.1,20,No,1171.78
+TXN1841,2025-04-21,108,East,Office Supplies,Product 7,8,165.08,Cash,C8961,38,F,1.1,25,No,990.48
+TXN1842,2025-04-22,106,Central,Office Supplies,Product 9,7,197.34,Debit Card,C5601,41,M,2.9,0,No,1381.38
+TXN1843,2025-04-23,102,South,Technology,Product 3,1,124.08,Online Payment,C2460,21,M,2.3,25,No,93.06
+TXN1844,2025-04-24,102,South,Technology,Product 15,4,131.53,Credit Card,C8669,29,F,4.0,15,No,447.2
+TXN1845,2025-04-25,107,West,Technology,Product 16,4,405.81,Debit Card,C2416,39,M,2.3,10,No,1460.92
+TXN1846,2025-04-26,104,Central,Office Supplies,Product 18,5,223.13,Cash,C8766,37,M,4.3,25,No,836.74
+TXN1847,2025-04-27,103,West,Office Supplies,Product 14,6,246.2,Cash,C2428,35,M,3.4,5,No,1403.34
+TXN1848,2025-04-28,107,South,Technology,Product 3,4,317.32,Cash,C5378,18,F,4.2,10,No,1142.35
+TXN1849,2025-04-29,105,West,Furniture,Product 12,2,315.34,Online Payment,C8529,47,M,5.0,15,No,536.08
+TXN1850,2025-04-30,101,Central,Office Supplies,Product 9,6,80.32,Credit Card,C5474,50,M,3.7,25,No,361.44
+TXN1851,2025-05-01,103,Central,Furniture,Product 7,8,424.19,Debit Card,C4071,41,M,4.9,30,No,2375.46
+TXN1852,2025-05-02,103,Central,Furniture,Product 9,8,129.8,Credit Card,C1555,31,M,1.1,0,No,1038.4
+TXN1853,2025-05-03,105,East,Office Supplies,Product 13,7,375.38,Online Payment,C9547,53,F,2.4,25,No,1970.74
+TXN1854,2025-05-04,105,West,Office Supplies,Product 18,6,397.7,Credit Card,C2563,22,F,1.4,30,No,1670.34
+TXN1855,2025-05-05,100,South,Furniture,Product 5,2,371.7,Online Payment,C2040,28,F,2.0,30,No,520.38
+TXN1856,2025-05-06,107,South,Furniture,Product 13,7,310.54,Cash,C3686,41,M,4.4,25,No,1630.34
+TXN1857,2025-05-07,105,South,Technology,Product 4,5,56.57,Debit Card,C3553,48,F,1.1,20,No,226.28
+TXN1858,2025-05-08,102,East,Technology,Product 2,6,212.17,Cash,C2779,30,M,3.1,25,Yes,954.76
+TXN1859,2025-05-09,108,East,Office Supplies,Product 16,8,322.18,Credit Card,C1075,33,F,3.3,15,No,2190.82
+TXN1860,2025-05-10,101,Central,Technology,Product 9,8,224.35,Cash,C5326,41,M,3.2,30,No,1256.36
+TXN1861,2025-05-11,107,South,Technology,Product 9,3,438.57,Debit Card,C6835,30,F,2.9,0,No,1315.71
+TXN1862,2025-05-12,109,East,Technology,Product 6,7,188.96,Cash,C6057,41,F,4.2,15,No,1124.31
+TXN1863,2025-05-13,102,Central,Technology,Product 11,1,182.09,Debit Card,C3349,43,F,1.5,5,No,172.99
+TXN1864,2025-05-14,104,South,Furniture,Product 1,1,169.7,Debit Card,C3773,19,M,2.2,10,No,152.73
+TXN1865,2025-05-15,105,West,Office Supplies,Product 4,7,199.75,Cash,C3262,33,M,3.5,25,No,1048.69
+TXN1866,2025-05-16,109,Central,Technology,Product 13,9,300.83,Online Payment,C4229,55,M,3.8,20,No,2165.98
+TXN1867,2025-05-17,105,East,Furniture,Product 13,7,368.16,Credit Card,C1392,63,F,2.6,0,No,2577.12
+TXN1868,2025-05-18,103,East,Furniture,Product 13,5,348.16,Online Payment,C2108,18,M,4.5,20,No,1392.64
+TXN1869,2025-05-19,102,Central,Furniture,Product 2,8,413.47,Online Payment,C5362,28,M,2.7,20,No,2646.21
+TXN1870,2025-05-20,103,Central,Technology,Product 9,2,448.66,Cash,C6188,52,M,2.6,20,No,717.86
+TXN1871,2025-05-21,100,East,Technology,Product 8,9,417.24,Credit Card,C9802,60,M,1.1,25,No,2816.37
+TXN1872,2025-05-22,103,West,Office Supplies,Product 7,6,58.53,Credit Card,C6057,46,M,3.2,0,No,351.18
+TXN1873,2025-05-23,100,South,Technology,Product 4,9,381.16,Online Payment,C4998,54,M,3.8,0,No,3430.44
+TXN1874,2025-05-24,100,West,Technology,Product 18,2,143.78,Cash,C9864,34,F,1.5,30,No,201.29
+TXN1875,2025-05-25,109,Central,Furniture,Product 3,3,109.82,Credit Card,C7566,56,F,2.2,20,No,263.57
+TXN1876,2025-05-26,105,West,Office Supplies,Product 6,8,337.32,Online Payment,C4677,59,M,4.1,30,No,1888.99
+TXN1877,2025-05-27,104,East,Technology,Product 12,1,193.88,Credit Card,C6796,45,F,2.5,30,No,135.72
+TXN1878,2025-05-28,103,Central,Technology,Product 12,7,75.7,Cash,C7363,46,F,2.0,10,No,476.91
+TXN1879,2025-05-29,102,South,Furniture,Product 8,7,111.93,Cash,C9123,60,M,3.7,25,No,587.63
+TXN1880,2025-05-30,100,East,Furniture,Product 1,1,50.42,Cash,C9222,20,M,1.8,25,No,37.82
+TXN1881,2025-05-31,105,East,Technology,Product 4,9,456.45,Credit Card,C8690,27,F,4.6,15,No,3491.84
+TXN1882,2025-06-01,101,South,Office Supplies,Product 11,8,61.08,Debit Card,C2400,59,M,1.4,30,No,342.05
+TXN1883,2025-06-02,107,South,Office Supplies,Product 3,4,144.26,Credit Card,C5071,31,F,3.8,25,No,432.78
+TXN1884,2025-06-03,109,West,Furniture,Product 13,5,237.32,Debit Card,C9808,29,F,3.0,20,No,949.28
+TXN1885,2025-06-04,104,Central,Furniture,Product 17,2,210.46,Cash,C3786,64,F,4.5,5,No,399.87
+TXN1886,2025-06-05,106,South,Technology,Product 10,9,460.28,Online Payment,C8169,59,M,1.5,20,No,3314.02
+TXN1887,2025-06-06,109,South,Furniture,Product 12,6,68.13,Debit Card,C1870,47,F,3.7,0,No,408.78
+TXN1888,2025-06-07,101,Central,Technology,Product 15,3,280.5,Cash,C5196,49,M,3.3,25,No,631.12
+TXN1889,2025-06-08,107,South,Office Supplies,Product 10,7,356.22,Cash,C3739,49,M,2.9,25,Yes,1870.16
+TXN1890,2025-06-09,101,South,Office Supplies,Product 14,9,469.26,Debit Card,C1940,59,M,3.0,15,No,3589.84
+TXN1891,2025-06-10,103,West,Technology,Product 13,3,329.17,Online Payment,C1340,49,M,3.9,30,No,691.26
+TXN1892,2025-06-11,100,East,Furniture,Product 5,2,411.69,Cash,C8422,43,M,4.8,5,Yes,782.21
+TXN1893,2025-06-12,104,East,Office Supplies,Product 6,7,87.68,Debit Card,C5133,18,F,1.4,25,Yes,460.32
+TXN1894,2025-06-13,108,East,Furniture,Product 2,7,223.67,Online Payment,C1659,59,M,1.1,15,No,1330.84
+TXN1895,2025-06-14,100,East,Office Supplies,Product 17,4,218.28,Online Payment,C4457,19,M,4.2,15,No,742.15
+TXN1896,2025-06-15,108,South,Technology,Product 4,9,448.83,Cash,C3975,34,M,1.4,5,No,3837.5
+TXN1897,2025-06-16,107,Central,Technology,Product 14,8,118.12,Credit Card,C1453,47,M,4.9,20,No,755.97
+TXN1898,2025-06-17,105,Central,Technology,Product 10,1,118.35,Credit Card,C9184,56,M,3.5,20,No,94.68
+TXN1899,2025-06-18,106,West,Office Supplies,Product 3,1,197.85,Cash,C6442,24,F,3.6,20,No,158.28
+TXN1900,2025-06-19,102,West,Furniture,Product 3,5,74.51,Online Payment,C1818,44,M,1.8,10,Yes,335.3
+TXN1901,2025-06-20,100,South,Furniture,Product 15,6,132.11,Cash,C5868,26,M,2.0,30,No,554.86
+TXN1902,2025-06-21,104,Central,Furniture,Product 6,3,484.34,Debit Card,C1012,39,F,3.6,30,No,1017.11
+TXN1903,2025-06-22,101,Central,Office Supplies,Product 17,9,242.68,Credit Card,C8727,51,M,4.6,20,No,1747.3
+TXN1904,2025-06-23,104,East,Office Supplies,Product 12,6,334.41,Debit Card,C1920,63,F,4.9,5,No,1906.14
+TXN1905,2025-06-24,107,South,Office Supplies,Product 20,4,376.75,Cash,C5920,18,F,1.8,10,No,1356.3
+TXN1906,2025-06-25,108,South,Office Supplies,Product 11,7,215.13,Cash,C3418,26,F,1.5,30,No,1054.14
+TXN1907,2025-06-26,101,East,Office Supplies,Product 4,8,116.25,Online Payment,C7475,37,F,1.2,20,No,744.0
+TXN1908,2025-06-27,102,South,Furniture,Product 6,9,142.96,Online Payment,C3017,36,M,4.5,10,No,1157.98
+TXN1909,2025-06-28,102,South,Office Supplies,Product 1,6,190.97,Online Payment,C8957,53,M,2.2,5,No,1088.53
+TXN1910,2025-06-29,100,West,Office Supplies,Product 20,6,336.23,Debit Card,C5792,57,F,1.0,20,No,1613.9
+TXN1911,2025-06-30,107,Central,Furniture,Product 16,8,229.23,Online Payment,C7830,62,F,1.9,0,No,1833.84
+TXN1912,2025-07-01,105,South,Office Supplies,Product 15,5,53.07,Cash,C3434,21,M,2.4,25,No,199.01
+TXN1913,2025-07-02,107,West,Furniture,Product 17,3,285.53,Online Payment,C3868,26,F,5.0,5,No,813.76
+TXN1914,2025-07-03,108,Central,Furniture,Product 8,3,464.68,Credit Card,C2438,58,F,3.1,15,No,1184.93
+TXN1915,2025-07-04,104,East,Technology,Product 12,6,415.43,Online Payment,C4543,39,F,1.8,15,No,2118.69
+TXN1916,2025-07-05,102,West,Technology,Product 10,2,421.35,Debit Card,C2781,35,M,2.3,5,No,800.56
+TXN1917,2025-07-06,104,West,Technology,Product 15,6,407.78,Credit Card,C7343,29,F,2.3,15,No,2079.68
+TXN1918,2025-07-07,104,Central,Technology,Product 9,6,195.68,Credit Card,C3263,59,M,1.1,30,No,821.86
+TXN1919,2025-07-08,104,East,Office Supplies,Product 2,8,394.34,Credit Card,C1211,60,M,1.5,5,No,2996.98
+TXN1920,2025-07-09,102,West,Technology,Product 5,7,114.42,Debit Card,C9699,56,M,3.8,0,No,800.94
+TXN1921,2025-07-10,109,South,Furniture,Product 6,8,345.97,Cash,C7159,26,F,1.5,5,No,2629.37
+TXN1922,2025-07-11,103,South,Office Supplies,Product 7,9,338.71,Online Payment,C8027,23,F,1.9,20,No,2438.71
+TXN1923,2025-07-12,108,South,Technology,Product 1,6,61.51,Credit Card,C1331,36,M,2.4,20,No,295.25
+TXN1924,2025-07-13,109,East,Furniture,Product 7,3,404.59,Credit Card,C7860,64,M,4.0,10,No,1092.39
+TXN1925,2025-07-14,108,West,Office Supplies,Product 20,3,456.46,Credit Card,C9044,24,M,3.3,15,No,1163.97
+TXN1926,2025-07-15,101,South,Office Supplies,Product 12,1,170.34,Cash,C9169,33,F,3.8,25,No,127.76
+TXN1927,2025-07-16,107,East,Technology,Product 16,5,415.58,Cash,C9742,22,F,3.3,15,No,1766.22
+TXN1928,2025-07-17,107,South,Office Supplies,Product 16,4,87.08,Debit Card,C6720,33,M,3.7,30,No,243.82
+TXN1929,2025-07-18,106,Central,Furniture,Product 11,9,319.99,Cash,C1727,18,M,1.0,5,No,2735.91
+TXN1930,2025-07-19,107,West,Office Supplies,Product 4,9,268.54,Online Payment,C5975,54,F,4.7,25,No,1812.64
+TXN1931,2025-07-20,102,West,Furniture,Product 13,5,295.67,Debit Card,C4243,56,M,1.4,25,No,1108.76
+TXN1932,2025-07-21,105,East,Office Supplies,Product 7,4,466.79,Debit Card,C1648,36,F,2.6,15,No,1587.09
+TXN1933,2025-07-22,100,East,Technology,Product 4,7,442.09,Online Payment,C6095,54,F,4.1,25,No,2320.97
+TXN1934,2025-07-23,106,West,Furniture,Product 15,6,403.29,Online Payment,C7614,34,M,2.7,25,No,1814.81
+TXN1935,2025-07-24,100,South,Office Supplies,Product 19,4,173.16,Online Payment,C8135,43,M,4.8,20,No,554.11
+TXN1936,2025-07-25,108,South,Office Supplies,Product 9,2,460.32,Debit Card,C2009,39,F,2.9,0,No,920.64
+TXN1937,2025-07-26,100,Central,Office Supplies,Product 11,1,93.88,Debit Card,C2550,25,F,4.5,5,No,89.19
+TXN1938,2025-07-27,100,South,Furniture,Product 8,4,434.0,Debit Card,C9995,50,F,4.2,15,Yes,1475.6
+TXN1939,2025-07-28,106,East,Furniture,Product 1,4,197.67,Online Payment,C8492,19,F,4.9,20,No,632.54
+TXN1940,2025-07-29,101,East,Furniture,Product 8,1,74.2,Online Payment,C4401,47,F,4.7,30,No,51.94
+TXN1941,2025-07-30,104,South,Technology,Product 13,6,351.21,Credit Card,C8447,64,M,4.6,30,Yes,1475.08
+TXN1942,2025-07-31,107,East,Technology,Product 4,4,154.08,Cash,C6424,37,F,3.9,10,No,554.69
+TXN1943,2025-08-01,107,West,Furniture,Product 8,1,159.61,Credit Card,C5241,35,F,2.5,25,No,119.71
+TXN1944,2025-08-02,102,West,Office Supplies,Product 3,1,187.72,Online Payment,C4161,60,F,1.4,25,Yes,140.79
+TXN1945,2025-08-03,106,South,Technology,Product 9,1,78.66,Debit Card,C5155,27,M,3.8,15,No,66.86
+TXN1946,2025-08-04,102,West,Furniture,Product 2,8,129.71,Online Payment,C8478,41,M,4.9,0,No,1037.68
+TXN1947,2025-08-05,105,West,Office Supplies,Product 2,8,52.31,Cash,C9719,21,F,3.9,0,No,418.48
+TXN1948,2025-08-06,105,Central,Technology,Product 13,2,250.43,Credit Card,C7617,54,F,4.7,15,No,425.73
+TXN1949,2025-08-07,102,Central,Office Supplies,Product 15,7,87.91,Credit Card,C6660,21,M,4.2,15,No,523.06
+TXN1950,2025-08-08,106,West,Office Supplies,Product 12,8,357.19,Debit Card,C9624,30,M,1.7,20,No,2286.02
+TXN1951,2025-08-09,102,South,Office Supplies,Product 4,8,156.03,Credit Card,C2176,42,M,2.0,30,No,873.77
+TXN1952,2025-08-10,107,Central,Office Supplies,Product 8,7,474.61,Credit Card,C8956,30,M,2.4,15,No,2823.93
+TXN1953,2025-08-11,109,East,Technology,Product 9,5,442.06,Online Payment,C9592,35,F,1.7,30,No,1547.21
+TXN1954,2025-08-12,103,East,Technology,Product 5,1,180.25,Credit Card,C3233,41,M,3.3,10,No,162.22
+TXN1955,2025-08-13,100,East,Technology,Product 20,9,402.45,Credit Card,C5700,19,F,4.9,30,No,2535.43
+TXN1956,2025-08-14,103,South,Furniture,Product 18,7,411.46,Credit Card,C6906,50,F,4.0,20,No,2304.18
+TXN1957,2025-08-15,106,West,Technology,Product 11,2,493.95,Debit Card,C8860,36,M,2.7,25,No,740.92
+TXN1958,2025-08-16,103,East,Office Supplies,Product 15,6,319.03,Debit Card,C8526,26,M,1.0,25,No,1435.63
+TXN1959,2025-08-17,105,South,Technology,Product 9,2,86.88,Online Payment,C6559,45,M,2.3,30,No,121.63
+TXN1960,2025-08-18,108,Central,Office Supplies,Product 17,1,341.08,Credit Card,C7732,52,M,3.1,25,No,255.81
+TXN1961,2025-08-19,100,West,Furniture,Product 12,7,331.24,Debit Card,C3513,56,F,2.3,25,No,1739.01
+TXN1962,2025-08-20,104,Central,Office Supplies,Product 7,2,337.26,Debit Card,C8830,27,F,1.4,5,No,640.79
+TXN1963,2025-08-21,106,South,Office Supplies,Product 10,2,188.22,Online Payment,C7944,18,F,2.8,10,No,338.8
+TXN1964,2025-08-22,100,East,Office Supplies,Product 10,5,436.86,Cash,C8910,59,M,2.0,20,No,1747.44
+TXN1965,2025-08-23,103,East,Furniture,Product 13,5,481.76,Credit Card,C6649,38,F,4.6,20,No,1927.04
+TXN1966,2025-08-24,105,South,Technology,Product 19,7,147.97,Debit Card,C2096,26,M,1.4,25,No,776.84
+TXN1967,2025-08-25,101,East,Technology,Product 11,1,89.67,Online Payment,C2951,64,F,1.2,0,No,89.67
+TXN1968,2025-08-26,109,West,Furniture,Product 13,8,137.54,Online Payment,C8799,32,M,1.0,20,No,880.26
+TXN1969,2025-08-27,104,South,Office Supplies,Product 8,3,419.25,Online Payment,C9804,52,F,2.3,10,No,1131.98
+TXN1970,2025-08-28,109,Central,Technology,Product 8,4,354.49,Debit Card,C1595,22,F,3.6,15,No,1205.27
+TXN1971,2025-08-29,100,South,Furniture,Product 4,9,336.22,Credit Card,C8875,58,M,3.9,10,No,2723.38
+TXN1972,2025-08-30,105,West,Technology,Product 15,4,230.81,Cash,C5439,39,F,2.8,25,No,692.43
+TXN1973,2025-08-31,105,West,Furniture,Product 11,5,310.02,Credit Card,C6972,58,F,3.7,25,No,1162.57
+TXN1974,2025-09-01,103,South,Office Supplies,Product 11,7,188.54,Online Payment,C1858,40,M,2.4,5,No,1253.79
+TXN1975,2025-09-02,107,South,Technology,Product 1,4,264.74,Online Payment,C6519,24,M,3.7,30,No,741.27
+TXN1976,2025-09-03,103,East,Furniture,Product 17,1,406.88,Cash,C8385,40,M,1.2,20,No,325.5
+TXN1977,2025-09-04,107,West,Technology,Product 15,9,491.56,Credit Card,C9636,61,M,2.6,30,No,3096.83
+TXN1978,2025-09-05,107,South,Technology,Product 20,4,469.62,Online Payment,C5317,42,M,4.2,30,No,1314.94
+TXN1979,2025-09-06,104,South,Technology,Product 6,9,470.24,Online Payment,C4454,44,F,4.2,20,No,3385.73
+TXN1980,2025-09-07,103,West,Technology,Product 15,6,231.0,Credit Card,C2030,58,M,3.9,20,No,1108.8
+TXN1981,2025-09-08,101,South,Furniture,Product 9,1,260.96,Online Payment,C8906,23,F,1.8,25,No,195.72
+TXN1982,2025-09-09,102,East,Office Supplies,Product 14,3,367.54,Credit Card,C2447,51,F,2.0,20,No,882.1
+TXN1983,2025-09-10,102,West,Furniture,Product 18,2,464.99,Online Payment,C3850,26,M,5.0,0,No,929.98
+TXN1984,2025-09-11,103,East,Furniture,Product 17,9,113.9,Credit Card,C9106,50,F,1.4,0,No,1025.1
+TXN1985,2025-09-12,103,East,Furniture,Product 18,1,186.91,Cash,C8151,23,F,1.7,15,No,158.87
+TXN1986,2025-09-13,109,East,Office Supplies,Product 5,9,112.66,Online Payment,C7952,54,M,1.5,20,No,811.15
+TXN1987,2025-09-14,104,East,Technology,Product 20,9,325.4,Cash,C5055,48,F,2.3,5,Yes,2782.17
+TXN1988,2025-09-15,103,West,Technology,Product 20,8,187.84,Online Payment,C6402,51,M,1.8,15,No,1277.31
+TXN1989,2025-09-16,109,East,Technology,Product 9,8,196.75,Online Payment,C2672,58,M,3.0,25,No,1180.5
+TXN1990,2025-09-17,107,East,Office Supplies,Product 11,1,81.91,Debit Card,C5532,46,M,2.9,20,No,65.53
+TXN1991,2025-09-18,105,South,Technology,Product 1,8,207.41,Credit Card,C5924,31,F,4.6,0,No,1659.28
+TXN1992,2025-09-19,105,West,Office Supplies,Product 18,3,438.12,Cash,C7085,53,F,1.1,5,No,1248.64
+TXN1993,2025-09-20,107,West,Technology,Product 6,7,154.88,Cash,C8734,53,F,2.3,15,No,921.54
+TXN1994,2025-09-21,106,Central,Technology,Product 2,1,362.83,Cash,C5864,32,F,3.4,5,No,344.69
+TXN1995,2025-09-22,109,West,Furniture,Product 15,1,333.33,Credit Card,C2221,25,M,3.4,20,No,266.66
+TXN1996,2025-09-23,109,West,Office Supplies,Product 14,5,438.57,Debit Card,C3860,43,F,2.9,10,No,1973.56
+TXN1997,2025-09-24,107,Central,Furniture,Product 5,5,109.53,Cash,C9428,53,M,4.3,5,No,520.27
+TXN1998,2025-09-25,101,West,Furniture,Product 6,8,489.92,Credit Card,C4253,38,F,1.3,5,No,3723.39
+TXN1999,2025-09-26,108,West,Furniture,Product 6,7,312.18,Online Payment,C4782,45,F,4.3,25,No,1638.95
